@@ -1,4 +1,4 @@
 <?php
-header("https://educaysoft.org/sica/login_registration_show?idevento=338");
+header("https://educaysoft.org/sica/index.php/login/user_registration_show?idevento=338");
 
 ?>
