@@ -85,8 +85,8 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
      <!---   <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg> -->
         <div>
-          <h4 class="fw-bold mb-0">Envios de trabajos</h4>
-          <p>Hasta el 25 de octubre del 2022.<br>
+          <h4 class="fw-bold mb-0">Inscripciones ponencias y posters</h4>
+          <p>Del 19 de mayo hasta el 23 de junio del 2023.<br>
           <a href="congresoutlvte-normafinal.php">Ver normativas</a></p>
         </div>
       </div>
@@ -94,15 +94,15 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <!-- <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"/></svg> -->
         <div>
-          <h4 class="fw-bold mb-0">Aceptación de trabajos</h4>
-          <p>Hasta el 31 de octubre del 2022.</p>
+          <h4 class="fw-bold mb-0">Notificación de aceptación</h4>
+          <p>Hasta el 21 de julio del 2023.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Inscripción público en general</h4>
-          <p>Hasta el 4 de noviembre del 2022. <br>
+          <p>Hasta el 03 de septiembre del 2023. <br>
 <a    href="https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link">Inscribete ya </a></p>
         </div>
       </div>
@@ -123,14 +123,14 @@
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Cursos Pre-congreso</h4>
-          <p>4 y 5 de noviembre del 2022.<br> <a href="#cursos">Más Información</a></p>
+          <h4 class="fw-bold mb-0">Foros y Coloquios</h4>
+          <p>4 y 5 de noviembre del 2022<br> <a href="#cursos">Más Información</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#geo-fill"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Beneficios </h4>
+          <h4 class="fw-bold mb-0">Productos </h4>
           <p>Libro de memoria,Certificados, Derechos de Autor, ISBN, ISSN</p>
         </div>
       </div>
@@ -140,7 +140,7 @@
 
         <div>
           <h4 class="fw-bold mb-0">Celebración del congreso</h4>
-          <p> 7,8,9 de noviembre del 2022</p>
+          <p> 4,5,6 de septiembre del 2023</p>
         </div>
       </div>
     </div>

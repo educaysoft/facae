@@ -84,7 +84,7 @@
 
 
  <!---- <a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php"  >Inscripciones </a> --->
- <a class="btn btn-primary my-2"  href="congresoutlvte-evento.php"  >El evento </a>
+ <a class="btn btn-primary my-2"  href="congresoutlvte-evento.php"  >Inscripciones </a>
           <a
             class="btn btn-secondary my-2"
     href="Agenda/AgendaFinal.pdf" style="background-color: #f44336;" 

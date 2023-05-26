@@ -296,12 +296,12 @@ include_once("head.php");
 ?>
 
 <?php
-include_once("congresoutlvte-slide.php");
+//include_once("congresoutlvte-slide.php");
 ?>
 
 
 <?php
-include_once("saludo.php");
+//include_once("saludo.php");
 ?>
 
 
