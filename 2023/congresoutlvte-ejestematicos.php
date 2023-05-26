@@ -23,9 +23,6 @@
       <p class="pb-3 mb-0 small lh-sm border-bottom">
 <<<<<<< HEAD
 Responsabilidad social empresarial, economía circular, economía de colores y procesos regenerativos.<br>Coordinador: Ing. Carlos Rivas Vallejo, Mgs. 
-=======
-Responsabilidad social empresarial, economía circular, economía de colores y procesos regenerativos.
->>>>>>> 53047ce0bd5359c37f5b58ecb8df0f149b989fac
       </p>
     </div>
     <div class="d-flex text-muted pt-3">
