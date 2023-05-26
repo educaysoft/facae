@@ -67,7 +67,7 @@
 </div>
 </div>
 
-
+<!-----
 <div style="margin-left:20px;border-top:2px solid green;margin-top: 10px;">
   <div style="padding:20px">  
 
@@ -134,7 +134,6 @@
 
 
 
-
 <div style="margin-left:20px;border-top:2px solid green;margin-top: 10px;">
   <div style="padding:20px">  
 
@@ -187,6 +186,9 @@
 
 </div>
 </div>
+
+
+---->
 
    <div id="eys-footer"    >
 	  <div style="margin-top:10px; height: 100%; width: 30%; display: flex; flex-direction:column;  ">
