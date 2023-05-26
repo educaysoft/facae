@@ -21,13 +21,8 @@
   <p class="nombre">Dr. Manuel Quiñonez Cabeza. PhD.</p><br> 
 
 
-<<<<<<< HEAD
   <b>Decana de la FACAE-UTLVTE</b><br>
   <p class="nombre">Dra. Mariuxi Guijarro Cagua, PhD.</p><br><br> 
-=======
-  <b>Decano de la FACI-UTLVTE</b><br>
-  <p class="nombre">Ing. Victor Lenin Montaño Roldan MSc.</p><br><br> 
->>>>>>> 53047ce0bd5359c37f5b58ecb8df0f149b989fac
 
 
 
@@ -46,7 +41,6 @@
 
     <p  class="badge bg-primary text-wrap" >Nacionales</p>
 
-<<<<<<< HEAD
   <p class="nombre">Dr. Hoover Wait Ruiz Rengifo, PhD.</p><br>
 
   <p class="nombre">Dr. José Armando Estrada Hernández, PhD,</p><br>
@@ -66,7 +60,6 @@
   <p class="nombre">Dr. Pablo Vilela Mera, PhD.</p><br>
   <p class="nombre">Dra. Marisol Alava Cedeño, MSc.</p><br>
 
-=======
   <p class="nombre">Dr. Juan Tacoronte Morales, PhD.</p><br>
 
   <p class="nombre">Dra. Maribel Cuello Pérez, PhD,</p><br>
@@ -119,92 +112,92 @@
 <span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
   <p class="nombre">Ing. Joseph Cruel Siguenza, MSc. 
   <br><i>UTLVTE</i><br><br></p>
-    <p  class="badge bg-primary text-wrap" >Nacionales</p>
+    <p  class="badge bg-primary text-wrap" >Foros y Coloquio</p>
 
-  <p class="nombre">Ing. Stalin Francis Quinde, MSc. 
-  <br><i>UTLVTE</i><br><br></p>
+  <p class="nombre">Ing. María Fernanda Mosquera , Mgs. 
+  <br><i>V Foro Internacional de Talento Humano</i><br><br></p>
 
-  <p class="nombre">Ing. Silvia Simisterra Masías, Mgs.
-  <br><i>UTLVTE</i><br><br></p>
+  <p class="nombre">Ing. Norma Ayovi Realpe, Msg.
+  <br><i>V Foro Internacional de Talento Humano</i><br><br></p>
 
   <p class="nombre">Dr. Juan Tacoronte Morales, PhD.
   <br><i>UTLVTE</i><br><br></p>
 
-  <p class="nombre">Ing. Franklin Ochoa Gonzales,  MSc. 
+
+    <p  class="badge bg-primary text-wrap" >Comunicaciones</p>
+
+  <p class="nombre">Dr. Patricio Arce Minda,  Mgs. 
   <br><i>UTLVTE</i><br><br></p>
 
 
-  <p class="nombre">Ing. Xavier Garcia Cervantes, MSc.
+  <p class="nombre">Ing. Pascolin Guilcatoma Moreira, Mgs.
   <br><i>UTLVTE</i><br><br></p>
 
 
-  <p class="nombre">Ing. Damián Pérez Moreira, MSc.
+  <p class="nombre">Ing. Elaine Tenorio Canchingre, Mgs.
   <br><i>UTLVTE</i><br><br></p>
 
 
-  <p class="nombre">Ing. Guillermo Mosquera Quintero, MSc.
+  <p class="nombre">Abg. José Cortez Altafulla.
   <br><i>UTLVTE</i><br><br></p>
 
 
-  <p class="nombre">Ing. Lenin Montaño Roldan, MSc.
+  <p class="nombre">Ing. Cesar Godoy Rosero, Mgs.
   <br><i>UTLVTE</i><br><br></p>
 
 
-  <p class="nombre">Ing. Marco Rosero, MSc.
+  <p class="nombre">Ing. Ana Lucía Quintana Lovato, Msg.
+  <br><i>UTLVTE</i><br><br></p>
+
+
+
+  <p class="nombre">Ing. Mayra Escandón Franco, Mgs.
+  <br><i>UTLVTE</i><br><br></p>
+
+    <p  class="badge bg-primary text-wrap" >Moderadores</p>
+
+  <p class="nombre">Ing. Luis Canchingre Bone, Mgs.
   <br><i>UCE</i><br><br></p>
 
-  <p class="nombre">Ing. Geraldo Areolfo Cuadrado, MSc.
+  <p class="nombre">Ing. Romina Oyarvide Ibarra, Mgs.
   <br><i>UPEC</i><br><br></p>
 
-  <p class="nombre">Ing. Erasmo Alvarado Jaramillo, MSc.
+  <p class="nombre">Ing. Maria Fernanda Mosquera Torres, Mgs.
   <br><i>UNL</i><br><br></p>
    
+  <p class="nombre">Ing. Iván Endara Arguello, Mgs.
+  <br><i>UNL</i><br><br></p>
 
-    <p  class="badge bg-danger text-wrap" >Internacional</p>
+    <p  class="badge bg-danger text-wrap" >Tecnología</p>
 
-  <p class="nombre">Dr. Hugo Romero Bonilla, PhD. 
-  <br><i>PERU</i><br><br></p>
-
-
-  <p class="nombre">Dra. Guadalupe Abeledo, PhD. 
-  <br><i>ESPAÑA</i><br><br></p>
-
-  <p class="nombre">Dr. Hever Robles Castillo, PhD. 
-  <br><i>PERU</i><br><br></p>
+  <p class="nombre">Dr. Patricio Arce Minda, Mgs. 
+  <br><i>ECUADOR</i><br><br></p>
 
 
-  <p class="nombre">Dr. Luis Paucar Flores, PhD. 
-  <br><i>PERU</i><br><br></p>
+  <p class="nombre">Ing. Stalin Francis Quinde, MsC. 
+  <br><i>ECUADOR</i><br><br></p>
+
+  <p class="nombre">Ing. Pascolin Guilcatoma Moreira, MsC. 
+  <br><i>ECUADOR</i><br><br></p>
 
 
-  <p class="nombre">Dr. José Nestor Mamani Quispe, PhD. 
-  <br><i>PERU</i><br><br></p>
-
-  <p class="nombre">Ing. Luz Cano Zapata, MSc. 
-  <br><i>PERU</i><br><br></p>
-
-
-  <p class="nombre">Dra. Yorberth Montes de Oca Rojas, PhD. 
-  <br><i>Venezuela</i><br><br></p>
 
   </main>
 </div>
 
 <div style="float:left; width: 25%; padding-right:10px">
   <header>
-    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE DE REVISIÓN Y EDICIÓN PREVIA</b></p>
+    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE DE EDITORIAL DEL LIBRO</b></p>
   </header>
 
   <main>
 <span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
-  <p class="nombre">Lcda. Ana Bedoya Gutierrez, MSc.</p>
+  <p class="nombre">Dr. Harol Oyarvide Ramirez,PhD.</p>
 
     <p  class="badge bg-primary text-wrap" >Miembros</p>
 
-  <p class="nombre">Lcda. Silvia Simisterra Masias, Mgs.</p>
-  <p class="nombre">Dr. Alfredo Nicolas Tenorio Obregon, MSc.</p>
-  <p class="nombre">Dr. Hugo Tapia, PhD.</p>
-  <p class="nombre">Lcda. Mariana Cecilia Ulloa Espinoza, MSc.</p><br>
+  <p class="nombre">Dr. José Armando Estrada Hernández, PhD.</p>
+  <p class="nombre">Ing. Raúl Camacho Marín, Mgs.</p>
 
    
 

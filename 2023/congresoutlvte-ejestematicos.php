@@ -28,7 +28,7 @@ Responsabilidad social empresarial, economía circular, economía de colores y p
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#e83e8c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">2</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-Empresa pública y privada y su rol en el contexto actual.
+Liderazgo, comunicación interna y Cultura Organizacional.<br> Ing. Romina Oyarvide Ibarra, Mgs.
       </p>
     </div>
     <div class="d-flex text-muted pt-3">
@@ -44,7 +44,7 @@ Gestión innovadora y disruptiva en los negocios actuales.
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#33ffa9"/><text x="50%" y="50%" fill="#6f42c1" dy=".3em">4</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
- Comercio, contabilidad, banca y finanzas.
+ Rol de los escenarios actuales de la empresa pública y privada: Ing. Luis Canchingre Bone, Mgs.
       </p>
     </div>
 
@@ -53,7 +53,7 @@ Gestión innovadora y disruptiva en los negocios actuales.
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">5</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-Negocios internacionales e integración económica.
+Calidad de la Gestión Innovadora y descriptiva de los negocios.<br> Dra. Olga Quiñonez Cagua, PhD.
       </p>
     </div>
 
@@ -62,7 +62,7 @@ Negocios internacionales e integración económica.
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #D673D7"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">6</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-Tecnología y su relación con el crecimiento y el desarrollo económico.
+Tecnología y su relación con el crecimiento y el desarrollo económico.<br>Coordinador: Ing. Cesar Godoy Rosero, Mgs.
       </p>
     </div>
 
@@ -70,7 +70,7 @@ Tecnología y su relación con el crecimiento y el desarrollo económico.
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #C8BECO"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">7</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-Movilidad y seguridad humana en el desarrollo económico.
+Movilidad y seguridad humana en el desarrollo económico.<br>Coordinador: Ing. Patricio Arce Minda, Msg.
       </p>
     </div>
 
@@ -78,7 +78,7 @@ Movilidad y seguridad humana en el desarrollo económico.
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #FB525A"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">8</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-Propuestas de nuevas carreras, tecnologías y programas de enseñanza en el campo ingenieril.
+Economía del siglo XXI economía circular y en colores.<br>Coordinador: Jorgeli Ayovi Caicedo, Mgs.
       </p>
     </div>
 
