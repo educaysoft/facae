@@ -1,14 +1,14 @@
 <div id="equipo" style="border-top: 2px solid green;    width: 90%; margin:20px auto; display: inline-block; ">
 <div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 20vh; display: inline-block; ">
 
-<div style="float:left; width: 25%; font-size: 0.3wv;">
+<div style="float:left; width: 20%; font-size: 0.5wv;">
   <header>
     <p style="margin-bottom: 10px; margin-top:10px;"><b>AUTORIDADES</b></p>
   </header>
   <main>
 
   <p class="nombre">Dr. Girald David Vernaza Arroyo. PhD.</p> 
-  <b>Rector de la UTLVTE</b><br>
+  <p>Rector de la UTLVTE</p><br>
 
   <p class="nombre">Dra. María Elizabeth Canchingre Bone. PhD.</p> 
   <b>Vicerrectora Académica de la UTLVTE</b><br>
