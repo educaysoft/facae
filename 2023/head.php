@@ -78,7 +78,7 @@
 	<div class="mask" style="background-color:hsla(120,100%,50%,0.0)">
 <div class="d-flex justify-content-center align-items-center h-100">
           <div class="text-black">
-<p class="mb-4 bg-success p-2"><span style="color: white; text-shadow: 2px 2px #000000;font-size:20px;font-weight:bold;">IV CONGRESO INTERNACIONAL DE CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS</span><br><br><span style="color:white;text-shadow:2px 2px #000000;">   En el contexto del desarrollo y sostenibilidad  económica, social e innovación</span><br>
+<p class="mb-4"><span style="color: white; text-shadow: 2px 2px #000000;font-size:20px;font-weight:bold;">IV CONGRESO INTERNACIONAL DE CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS</span><br><br><span style="color:white;text-shadow:2px 2px #000000;">   En el contexto del desarrollo y sostenibilidad  económica, social e innovación</span><br>
  <a href="https://www.formget.com">Inscribete aqui</a>.
 </p>
 </div>
