@@ -84,7 +84,7 @@
         <div>
           <h4 class="fw-bold mb-0">Inscripciones ponencias y posters</h4>
           <p>Del 19 de mayo hasta el 23 de junio del 2023.<br>
-          <a href="congresoutlvte-normafinal.php">Ver normativas</a></p>
+          <a href="congresoutlvte-normas.php">Ver normativas</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -121,7 +121,7 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Foros y Coloquios</h4>
-          <p>4 y 5 de noviembre del 2022<br> <a href="#cursos">Más Información</a></p>
+          <p>4,5 y 6 de noviembre del 2023<br> <a href="#cursos">Más Información</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">

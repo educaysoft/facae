@@ -282,7 +282,7 @@
     <link href="navbar.css" rel="stylesheet">
 
 </head>
-<body style="margin: 0% 0% 0% 0%; background-color: #c0c0c0;">
+<body style="margin: 0% 5% 0% 5%; background-color: #c0c0c0;">
 
 
 <?php

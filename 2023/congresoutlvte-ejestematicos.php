@@ -91,7 +91,7 @@ Liderazgo, comunicación interna y Cultura Organizacional.<br><b>Coordinadora:</
     </div>
 
     <small class="d-block text-end mt-3">
-      <a href="https://congresoutlvte.org/faci/congresoutlvte-tematicas.php">Todas las temáticas</a>
+      <a href="congresoutlvte-tematicas.php">Todas las temáticas</a>
     </small>
 
   

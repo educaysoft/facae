@@ -34,25 +34,24 @@
   <main>
 
    <p  class="badge bg-primary text-wrap" >Nacionales</p>
-  <p class="nombre">Dr. Hoover Wait Ruiz Rengifo, PhD.</br>
- Dr. José Armando Estrada Hernández, PhD.<br>
-  Dr. Yahilina Silveira Pérez, PhD.<br>
-
-  Dr. Rosario León Robaina, PhD.<br>
-
-  Dr. Michael Tamayo, PhD.<br>
-  Dr. María Helena López Hernández, PhD.<br>
-  Dr. Luis Alberto Pérez Llody, PhD.<br>
-  Dr. Tibisay Limus, PhD.<br>
-
-  Dr. Alfonso Murgueitio Montenegro, PhD.<br>
-  Dra. Elizabeth Gobea Robinsón, PhD.<br>
-  Dr. Féliz Rosales Cortes, PhD.<br>
-  Dr. Pablo Vilela Mera, PhD.<br>
-  Dra. Marisol Alava Cedeño, Mgs.</p><br>
+ <p class="nombre">  Dr. Alfonso Murgueitio Montenegro, PhD.<br><span class="text-primary">(Ecuador)</span></p>
+  <p class="nombre">  Dra. Elizabeth Gobea Robinsón, PhD.<br><span class="text-primary">(Ecuador)</span></p>
+   <p class="nombre"> Dr. Féliz Rosales Cortes, PhD.<br><span class="text-primary">(Ecuador)</span></p>
+  <p class="nombre">Dr. Pablo Vilela Mera, PhD.<br><span class="text-primary">(Ecuador)</span></p>
+  <p class="nombre">Dra. Marisol Alava Cedeño, Mgs.<br><span class="text-primary">(Ecuador)</span></p>
 
 
     <p  class="badge bg-danger text-wrap" >Internacionales</p>
+<p class="nombre">Dr. Hoover Wait Ruiz Rengifo, PhD.</br>
+ Dr. José Armando Estrada Hernández, PhD.<br>
+  Dr. Yahilina Silveira Pérez, PhD.<br>
+  Dr. Rosario León Robaina, PhD.<br>
+  Dr. Michael Tamayo, PhD.<br>
+  Dr. Angel Lemoine, PhD.<br>
+  Dr. María Helena López Hernández, PhD.<br>
+  Dr. Luis Alberto Pérez Llody, PhD.<br>
+  <p class="nombre">Dr. Tibisay Limus, PhD.<br><span class="text-primary">(Venezuela)</span></p>
+
 
   <p class="nombre">Dra. Yorberth Montes de Oca Rojas, PhD.<br><span class="text-primary">(Venezuela)</span></p><br>
 
@@ -70,55 +69,38 @@ Humano</p>
 
   <p><span class="nombre">Ing. María Fernanda Mosquera , Mgs.</span><br> 
 
-  <span class="nombre">Ing. Norma Ayovi Realpe, Msg.</span></p>
+  <span class="nombre">Ing. Norma Ayovi Realpe, Mgs.</span></p>
 
 
+   <p  class="badge bg-primary text-wrap" > II Foro Internacional Geopolítico
+Mundial</p>
+  <p><span class="nombre">Dr. Félix Rosales Cortes, PhD.</span><br> 
+  <span class="nombre"> Ing. Walter Saavedra Segura. Mgs.</span><br>
+  <span class="nombre"> Ing. Gorqui Estupiñán Vivas.</span></p>
 
+
+   <p  class="badge bg-primary text-wrap">III Coloquio Estudiantil: Semilleros de investigación</p>
+
+  <p><span class="nombre">Dr. Alfredo Plaza Castillo, PhD.</span><br> 
+  <span class="nombre"> Ing. Jorgeli Ayovi Caicedo, Mgs.</span><br>
+  <span class="nombre"> Estudiante,  Aron Estupiñan.</span></p>
     <p  class="badge bg-primary text-wrap" >Comunicaciones</p>
 
-  <p class="nombre">Dr. Patricio Arce Minda,  Mgs. 
-  <br><i>UTLVTE</i><br><br></p>
-
-
-  <p class="nombre">Ing. Pascolin Guilcatoma Moreira, Mgs.
-  <br><i>UTLVTE</i><br><br></p>
-
-
-  <p class="nombre">Ing. Elaine Tenorio Canchingre, Mgs.
-  <br><i>UTLVTE</i><br><br></p>
-
-
-  <p class="nombre">Abg. José Cortez Altafulla.
-  <br><i>UTLVTE</i><br><br></p>
-
-
-  <p class="nombre">Ing. Cesar Godoy Rosero, Mgs.
-  <br><i>UTLVTE</i><br><br></p>
-
-
-  <p class="nombre">Ing. Ana Lucía Quintana Lovato, Msg.
-  <br><i>UTLVTE</i><br><br></p>
-
-
-
-  <p class="nombre">Ing. Mayra Escandón Franco, Mgs.
-  <br><i>UTLVTE</i><br><br></p>
+  <p><span class="nombre">Dr. Patricio Arce Minda,  Mgs.</span><br> 
+  <span class="nombre">Ing. Pascolin Guilcatoma Moreira, Mgs.</span><br>
+  <span class="nombre">Ing. Elaine Tenorio Canchingre, Mgs.</span><br>
+  <span class="nombre">Abg. José Cortez Altafulla.</span><br>
+  <span class="nombre">Ing. Cesar Godoy Rosero, Mgs.</span><br>
+  <span class="nombre">Ing. Ana Lucía Quintana Lovato, Msg.</span><br>
+  <span class="nombre">Ing. Mayra Escandón Franco, Mgs.</p>
 
     <p  class="badge bg-primary text-wrap" >Moderadores</p>
 
-  <p class="nombre">Ing. Luis Canchingre Bone, Mgs.
-  <br><i>UCE</i><br><br></p>
+  <p> <span class="nombre">Ing. Luis Canchingre Bone, Mgs.</span><br>
+  <span class="nombre">Ing. Romina Oyarvide Ibarra, Mgs.</span><br>
+  <span class="nombre">Ing. Maria Fernanda Mosquera Torres, Mgs.</span><br>
+  <span class="nombre">Ing. Iván Endara Arguello, Mgs.</p>
 
-  <p class="nombre">Ing. Romina Oyarvide Ibarra, Mgs.
-  <br><i>UPEC</i><br><br></p>
-
-  <p class="nombre">Ing. Maria Fernanda Mosquera Torres, Mgs.
-  <br><i>UNL</i><br><br></p>
-   
-  <p class="nombre">Ing. Iván Endara Arguello, Mgs.
-  <br><i>UNL</i><br><br></p>
-
-    <p  class="badge bg-danger text-wrap" >Tecnología</p>
 
  
 
@@ -131,13 +113,10 @@ Humano</p>
   </header>
 
   <main>
-<span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
-  <p class="nombre">Dr. Harol Oyarvide Ramirez,PhD.</p>
 
-    <p  class="badge bg-primary text-wrap" >Miembros</p>
-
-  <p class="nombre">Dr. José Armando Estrada Hernández, PhD.</p>
-  <p class="nombre">Ing. Raúl Camacho Marín, Mgs.</p>
+  <p><span class="nombre">Dr. Harol Oyarvide Ramirez,PhD.</span><br>
+  <span class="nombre">Dr. José Armando Estrada Hernández, PhD.</span><br>
+  <span class="nombre">Ing. Raúl Camacho Marín, Mgs.</span></p>
 
    
 
@@ -149,17 +128,9 @@ Humano</p>
   </header>
   <main>
 
- <p class="nombre">Dr. Patricio Arce Minda, Mgs. 
-  <br><i>ECUADOR</i><br><br></p>
-
-
-  <p class="nombre">Ing. Stalin Francis Quinde, MsC. 
-  <br><i>ECUADOR</i><br><br></p>
-
-  <p class="nombre">Ing. Pascolin Guilcatoma Moreira, MsC. 
-  <br><i>ECUADOR</i><br><br></p>
-
-
+ <p><span class="nombre">Dr. Patricio Arce Minda, Mgs.</span><br>
+  <span class="nombre">Ing. Stalin Francis Quinde, MsC.</span><br> 
+  <span class="nombre">Ing. Pascolin Guilcatoma Moreira, MsC.</span></p>
    
 
   </main>
