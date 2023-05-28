@@ -74,7 +74,7 @@
 
   
 
-<div   id="intro-example"  class="p-5 text-center "     style="width:100%,background-color:green;background-size:cover auto;background-position:center top; background-repeat:no-repeat; background-image: url('images/portadafinal.jpg');" >
+<div   id="intro-example"  class="p-5 text-center "     style="width:100%,background-color:green;background-size:100% auto;background-position:center top; background-repeat:no-repeat; background-image: url('images/portadatest.jpg');" >
 	<div class="mask" style="background-color:hsla(120,100%,50%,0.0)">
        
      
