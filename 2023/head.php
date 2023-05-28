@@ -5,7 +5,7 @@
 
 
 
-<nav class="navbar bg-light" aria-label="Light offcanvas navbar" style="z-index:7;">
+<nav class="navbar bg-light" aria-label="Light offcanvas navbar" >
     <div class="container-fluid">
 <a class="navbar-brand" href="https://www.utelvt.edu.ec/site/" target="_blank">
       <img src="https://congresoutlvte.org/images/logoutlvte.png" alt="..." height="45">
