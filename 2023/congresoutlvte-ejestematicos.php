@@ -1,5 +1,5 @@
-<div id="equipo" style="border-top: 2px solid green;    width: 90%; margin:20px auto; display: inline-block; ";
-<div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 20vh; display: inline-block; ">
+<div id="equipo" style="border-top: 2px solid green;  width: 90%; margin:20px auto; display: inline-block; ">
+<div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 100%; display: inline-block; ">
     
 
 
@@ -8,11 +8,11 @@
   <div class="album py-5 bg-light">
     <div class="container">
 
- <div class="row py-lg-5 text-center container">
-      <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Ejes temáticos </h1>
-      </div>
-    </div>
+ 	<div class="row py-lg-5 text-center container">
+      		<div class="col-lg-6 col-md-8 mx-auto">
+        		<h1 class="fw-light">Ejes temáticos </h1>
+      		</div>
+    	</div>
 
 
 
@@ -21,7 +21,7 @@
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#007bff"/><text x="50%" y="50%" fill="#FFFFFF" dy=".3em">1</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-Responsabilidad social empresarial, economía circular, economía de colores y procesos regenerativos.<br><b>Coordinador:</b> Ing. Carlos Rivas Vallejo, Mgs. 
+	Responsabilidad social empresarial, economía circular, economía de colores y procesos regenerativos.<br><b>Coordinador:</b> Ing. Carlos Rivas Vallejo, Mgs. 
       </p>
     </div>
    
@@ -87,10 +87,12 @@ Liderazgo, comunicación interna y Cultura Organizacional.<br><b>Coordinadora:</
       </p>
     </div>
 
+
+    </div>
+
     <small class="d-block text-end mt-3">
       <a href="https://congresoutlvte.org/faci/congresoutlvte-tematicas.php">Todas las temáticas</a>
     </small>
-  </div>
 
   
 
@@ -101,4 +103,5 @@ Liderazgo, comunicación interna y Cultura Organizacional.<br><b>Coordinadora:</
 
 </main>
 
+</div>
 </div>

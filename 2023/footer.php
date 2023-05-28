@@ -1,12 +1,11 @@
 <div id="footer" style="background-color: white;"> 
   
-<div style="border-top:2px solid green;margin-top: 10px;">
-  <div style="width: 100%;height: 200px;  padding:20px; display:flex; justify-content:  space-between;">  
-
+<div style="border-top:2px solid green;margin-top: 20px;">
+  <div style="width: 100%;height: 200px;  padding:40px; display:flex; justify-content:  space-between;">  
 
    <div style="padding:0.5vw; position: relative ;width:10%;bottom: 0;">
-   <div style="position:absolute; bottom: 0;height: 100%; display:flex; flex-direction: column ; justify-content: end;">    
-      <img src="images/ecuador.png"  width="100%">
+   <div style="position:absolute; bottom: 0;width: 100%; display:flex; flex-direction: column ; justify-content: end;">    
+      <img src="images/ecuador.png"  width="80%">
      <center><p>Ecuador</p></center> 
     </div>
     </div>
@@ -190,7 +189,7 @@
 
 ---->
 
-   <div id="eys-footer"    >
+   <div id="eys-footer">
 	  <div style="margin-top:10px; height: 100%; width: 30%; display: flex; flex-direction:column;  ">
 	    <div >      
 		<p style="color: black;font-size:20px;font-weight:bold;">Contactanos:</p>
@@ -225,4 +224,5 @@
 
 </div>
 
-
+</body>
+</html>

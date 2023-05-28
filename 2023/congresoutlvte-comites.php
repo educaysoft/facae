@@ -1,5 +1,5 @@
-<div id="equipo" style="border-top: 2px solid green;    width: 90%; margin:20px auto; display: inline-block; ">
-<div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 20vh; display: inline-block; ">
+<div id="equipo" style="border-top: 2px solid green;   width: 90%; margin:20px auto; display: inline-block; ">
+<div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 100%; display: inline-block; ">
 
 <div style="float:left; width: 20%; font-size: 0.5wv;">
   <header>
@@ -7,56 +7,49 @@
   </header>
   <main>
 
-  <p class="nombre">Dr. Girald David Vernaza Arroyo. PhD.</p> 
-  <p>Rector de la UTLVTE</p><br>
+  <p><span class="nombre">Dr. Girald David Vernaza Arroyo. PhD.</span><br> 
+  Rector de la UTLVTE</p>
 
-  <p class="nombre">Dra. María Elizabeth Canchingre Bone. PhD.</p> 
-  <b>Vicerrectora Académica de la UTLVTE</b><br>
-
-
-
-  <p class="nombre">Dr. Manuel Quiñonez Cabeza. PhD.</p> 
-  <b>Vicerrector de Investigación y Postgrado</b><br>
+  <p> <span class="nombre">Dra. Elizabeth Canchingre Bone. PhD.</span><br> 
+  Vicerrectora Académica de la UTLVTE<br>
 
 
-  <b>Decana de la FACAE-UTLVTE</b><br>
-  <p class="nombre">Dra. Mariuxi Guijarro Cagua, PhD.</p><br><br> 
 
+  <p><span class="nombre">Dr. Manuel Quiñonez Cabeza. PhD.</span><br> 
+  Vicerrector de Investigación y Postgrado</p>
+
+
+  <p><span class="nombre">Dra. Mariuxi Guijarro Cagua, PhD.</span><br> 
+  Decana de la FACAE-UTLVTE</p>
 
 
   </main>
 </div>
 
-<div style="float:left; width: 25%;">
+<div style="float:left; width: 20%;">
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE CIENTÍFICO</b></p><br>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE CIENTÍFICO</b></p>
 
   </header>
   <main>
-<span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
-  <p class="nombre">Ing. Elizabeth Canchingre Bone Dra.<br>
-  <span class="text-primary">Vicerrectora Académica.</span></p><br>
 
-    <p  class="badge bg-primary text-wrap" >Nacionales</p>
+   <p  class="badge bg-primary text-wrap" >Nacionales</p>
+  <p class="nombre">Dr. Hoover Wait Ruiz Rengifo, PhD.</br>
+ Dr. José Armando Estrada Hernández, PhD.<br>
+  Dr. Yahilina Silveira Pérez, PhD.<br>
 
-  <p class="nombre">Dr. Hoover Wait Ruiz Rengifo, PhD.</p><br>
+  Dr. Rosario León Robaina, PhD.<br>
 
-  <p class="nombre">Dr. José Armando Estrada Hernández, PhD,</p><br>
+  Dr. Michael Tamayo, PhD.<br>
+  Dr. María Helena López Hernández, PhD.<br>
+  Dr. Luis Alberto Pérez Llody, PhD.<br>
+  Dr. Tibisay Limus, PhD.<br>
 
-  <p class="nombre">Dr. Yahilina Silveira Pérez, PhD.</p><br>
-
-  <p class="nombre">Dr. Rosario León Robaina, PhD,</p><br>
-
-  <p class="nombre">Dr. Michael Tamayo, PhD,</p><br>
-  <p class="nombre">Dr. María Helena López Hernández, PhD.</p><br>
-  <p class="nombre">Dr. Luis Alberto Pérez Llody, PhD.</p><br>
-  <p class="nombre">Dr. Tibisay Limus, PhD.</p><br>
-
-  <p class="nombre">Dr. Alfonso Murgueitio Montenegro, PhD.</p><br>
-  <p class="nombre">Dra. Elizabeth Gobea Robinsón, PhD.</p><br>
-  <p class="nombre">Dr. Féliz Rosales Cortes, PhD.</p><br>
-  <p class="nombre">Dr. Pablo Vilela Mera, PhD.</p><br>
-  <p class="nombre">Dra. Marisol Alava Cedeño, Mgs.</p><br>
+  Dr. Alfonso Murgueitio Montenegro, PhD.<br>
+  Dra. Elizabeth Gobea Robinsón, PhD.<br>
+  Dr. Féliz Rosales Cortes, PhD.<br>
+  Dr. Pablo Vilela Mera, PhD.<br>
+  Dra. Marisol Alava Cedeño, Mgs.</p><br>
 
 
     <p  class="badge bg-danger text-wrap" >Internacionales</p>
@@ -66,25 +59,19 @@
   </main>
 </div>
 
-<div style="float:left; width: 25%; padding-right:10px;">
+<div style="float:left; width: 20%; padding-right:10px;">
   <header>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE ORGANIZADOR</b></p>
   </header>
   <main>
 
-<span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
-  <p class="nombre">Ing. Joseph Cruel Siguenza, MSc. 
-  <br><i>UTLVTE</i><br><br></p>
-    <p  class="badge bg-primary text-wrap" >Foros y Coloquio</p>
+   <p  class="badge bg-primary text-wrap" > V Foro Internacional de Talento
+Humano</p>
 
-  <p class="nombre">Ing. María Fernanda Mosquera , Mgs. 
-  <br><i>V Foro Internacional de Talento Humano</i><br><br></p>
+  <p><span class="nombre">Ing. María Fernanda Mosquera , Mgs.</span><br> 
 
-  <p class="nombre">Ing. Norma Ayovi Realpe, Msg.
-  <br><i>V Foro Internacional de Talento Humano</i><br><br></p>
+  <span class="nombre">Ing. Norma Ayovi Realpe, Msg.</span></p>
 
-  <p class="nombre">Dr. Juan Tacoronte Morales, PhD.
-  <br><i>UTLVTE</i><br><br></p>
 
 
     <p  class="badge bg-primary text-wrap" >Comunicaciones</p>
@@ -133,22 +120,12 @@
 
     <p  class="badge bg-danger text-wrap" >Tecnología</p>
 
-  <p class="nombre">Dr. Patricio Arce Minda, Mgs. 
-  <br><i>ECUADOR</i><br><br></p>
-
-
-  <p class="nombre">Ing. Stalin Francis Quinde, MsC. 
-  <br><i>ECUADOR</i><br><br></p>
-
-  <p class="nombre">Ing. Pascolin Guilcatoma Moreira, MsC. 
-  <br><i>ECUADOR</i><br><br></p>
-
-
+ 
 
   </main>
 </div>
 
-<div style="float:left; width: 25%; padding-right:10px">
+<div style="float:left; width: 20%; padding-right:10px">
   <header>
     <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE DE EDITORIAL DEL LIBRO</b></p>
   </header>
@@ -166,7 +143,27 @@
 
   </main>
 </div>
+<div style="float:left; width: 20%;">
+  <header>
+    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ TÉCNICO</b></p>
+  </header>
+  <main>
 
+ <p class="nombre">Dr. Patricio Arce Minda, Mgs. 
+  <br><i>ECUADOR</i><br><br></p>
+
+
+  <p class="nombre">Ing. Stalin Francis Quinde, MsC. 
+  <br><i>ECUADOR</i><br><br></p>
+
+  <p class="nombre">Ing. Pascolin Guilcatoma Moreira, MsC. 
+  <br><i>ECUADOR</i><br><br></p>
+
+
+   
+
+  </main>
+</div>
 
 
 </div>

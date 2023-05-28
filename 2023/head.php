@@ -72,18 +72,13 @@
 
 
 
-
-
   
 
-<!---<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://educaysoft.org/sica/campus2.jpg');" >--->
-<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-size:100% auto;background-position:center top; background-image: url('images/portada.jpg');" >
+<div   id="intro-example"  class="p-5 text-center bg-image"     style="border:2px solid red; background-size:contain;background-position:center center; background-repeat:no-repeat; background-image: url('images/portada.jpg');" >
 	<div class="mask" style="background-color:hsla(120,100%,50%,0.0)">
        <div class="d-flex justify-content-center align-items-center h-100">
           <div class="text-black">
 
-
- <!---- <a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php"  >Inscripciones </a> --->
  <a class="btn btn-primary my-2"  href="congresoutlvte-evento.php"  >Inscripciones </a>
           <a
             class="btn btn-secondary my-2"
@@ -100,9 +95,6 @@
 
 </div>
 
-
-
-  
 
 
   <div class="social">

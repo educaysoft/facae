@@ -1,5 +1,5 @@
-<div id="equipo" style="border-top: 2px solid green;    width: 90%; margin:20px auto; display: inline-block; ";
-<div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 20vh; display: inline-block; ">
+<div id="equipo" style="border-top: 2px solid green;    width: 90%; margin:20px auto; display: inline-block; ">
+<div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 100%; display: inline-block; ">
 
 <div style="float:left; width: 100%; font-size: 0.5wv;padding:0%">
 
@@ -68,14 +68,11 @@
   <div class="album py-5 bg-light">
     <div class="container">
 
- <div class="row py-lg-5 text-center container">
-      <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Datos Importantes </h1>
-      </div>
-    </div>
-
-
-
+ 	<div class="row py-lg-5 text-center container">
+      		<div class="col-lg-6 col-md-8 mx-auto">
+        		<h1 class="fw-light">Datos Importantes </h1>
+      		</div>
+    	</div>
 
 
   <div class="container px-4 py-5" id="icon-grid">
@@ -103,7 +100,7 @@
         <div>
           <h4 class="fw-bold mb-0">Inscripción público en general</h4>
           <p>Hasta el 03 de septiembre del 2023. <br>
-<a    href="https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link">Inscribete ya </a></p>
+<a  href="https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link">Inscribete ya </a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -151,6 +148,7 @@
 
   
   </main>
+</div>
 </div>
 </div>
 
