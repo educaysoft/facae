@@ -5,7 +5,7 @@
 
 
 
-<nav class="navbar bg-light" aria-label="Light offcanvas navbar" >
+<nav class="navbar bg-light" aria-label="Light offcanvas navbar" style="z-index:7;">
     <div class="container-fluid">
 <a class="navbar-brand" href="https://www.utelvt.edu.ec/site/" target="_blank">
       <img src="https://congresoutlvte.org/images/logoutlvte.png" alt="..." height="45">
@@ -74,12 +74,14 @@
 
   
 
-<div   id="intro-example"  class="p-5 text-center "     style="width:100%,background-color:green;background-size:150% auto;background-position:center top; background-repeat:no-repeat; background-image: url('images/portadatest.jpg');" >
+<div   id="intro-example"  class="p-5 text-center "     style="width:100%,background-color:green;background-size:100% auto;background-position:center top; background-repeat:no-repeat; background-image: url('images/portadatest.jpg');" >
 	<div class="mask" style="background-color:hsla(120,100%,50%,0.0)">
 <div class="d-flex justify-content-center align-items-center h-100">
+          <div class="text-black">
 <p><span style="font-size:20px;font-weight:bold;">IV CONGRESO INTERNACIONAL DE CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS</span><br><br> En el contexto del desarrollo y sostenibilidad  económica, social e innovación<br>
  <a href="https://www.formget.com">Inscribete aqui</a>.
 </p>
+</div>
 </div>
      
   </div>
