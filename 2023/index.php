@@ -292,7 +292,7 @@ include_once("head.php");
 <div style="display:flex;flex-direction: column; background-color: white;">
 
 <?php
-//include_once("congresoutlvte-resumen.php");
+include_once("congresoutlvte-objetivo.php");
 ?>
 
 <?php

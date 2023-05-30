@@ -75,13 +75,20 @@
   
 
 <div   id="intro-example"  class="p-5 text-center bg-image "     style="background-color:rgb(123,203,158);background-size:100% auto;background-position:center top; background-repeat:no-repeat; background-image: url('images/portadatest.jpg');" >
-	<div class="mask" style="background-color:hsla(120,100%,50%,0.3)">
-<div class="d-flex justify-content-center align-items-center h-100">
+	<div class="mask" style="background-color:hsla(120,100%,50%,0.0)">
+<!---<div class="d-flex justify-content-center align-items-center h-100">--->
+     <div style="display:flex; flex-direction:row;  justify-content: space-between; ">
+	<div>
+         <a href="index.php"><img src="images/logo1.png" width="150vh" height="150vh"></a>
+       </div>
           <div class="text-black">
-<p class="mb-4"><span style="color: white; text-shadow: 2px 2px #000000;font-size:20px;font-weight:bold;">IV CONGRESO INTERNACIONAL DE CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS</span><br><br><span style="color:white;text-shadow:2px 2px #000000;">   En el contexto del desarrollo y sostenibilidad  económica, social e innovación</span><br>
- <a style="color:#FF0000;  href="https://www.formget.com">Inscribete aqui</a>.
+<p class="mb-4"><span style="color: white; text-shadow: 2px 2px #000000;font-size:30px;font-weight:bold;">IV CONGRESO INTERNACIONAL <br> DE<br> CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS</span><br><br><span style="font-size:20;color:white;text-shadow:2px 2px #000000;">   En el contexto del desarrollo y sostenibilidad  económica, social e innovación</span><br><br>
+ <a class="btn btn-secondary my-2"  href="https://forms.gle/cnaf5j2Mq4jRVHrg9">Inscribete aqui</a>
 </p>
 </div>
+<div id="logou" >
+       <a href="https://utelvt.edu.ec/sitioweb/"> <img src="images/logoutlvte2.png" width="160vh" height="160vh"></a>
+     </div>
 </div>
      
   </div>
