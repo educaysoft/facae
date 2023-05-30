@@ -77,7 +77,7 @@
 <div   id="intro-example"  class="p-5 text-center bg-image "     style="background-color:rgb(123,203,158);background-size:100% auto;background-position:center top; background-repeat:no-repeat; background-image: url('images/portadatest.jpg');" >
 	<div class="mask" style="background-color:hsla(120,100%,50%,0.0)">
 <!---<div class="d-flex justify-content-center align-items-center h-100">--->
-     <div style="display:flex; flex-direction:row;  justify-content: space-between; ">
+     <div style="width:100%; display:flex; flex-direction:row;  justify-content: space-between; ">
 	<div>
          <a href="index.php"><img src="images/logo1.png" width="150vh" height="150vh"></a>
        </div>
