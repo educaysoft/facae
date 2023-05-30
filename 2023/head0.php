@@ -1,20 +1,23 @@
 <html>
 <head>
 
-<title>1er Congreso Internacional "Mirada y Tendencias de las Ciencias Ingenieriles (MTCI) - UTLVTE 2022"</title>
+<title>IV Congreso Internacional Ciencias Administrativas y Economicas</title>
 	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-	<meta name="description" content="1er Congreso Internacional 'Miradas y Tendencias de las Ciencias Ingenieriles FACI-UTLVTE,2022'" />
+	<meta name="description" content=""IV Congreso Internacional Ciencias Administrativas y Económicas" />
 	<meta property="og:locale" content="es_EC" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="1er Congreso Internacional 'Miradas y Tendencias  de las Ciencias Ingenieriles FACI-UTLVTE,2022'" />
-	<meta property="og:description" content="1er Congreso Internacional 'Miradas y Tendencias  de las Ciencias Ingenieriles FACI-UTLVTE,2022'" />
-	<meta property="og:url" content="https://www.congresoute.edu/" />
-	<meta property="og:site_name" content="FACULTAD DE INGENIERÍAS" />
-	<meta property="article:modified_time" content="2021-12-14T21:51:01+00:00" />
-	<meta property="og:image" content="https://congresoutlvte.org/faci/images/logo.png" />
+	<meta property="og:title" content="IV Congreso Internacional Ciencais Administrativas y Económicas" />
+	<meta property="og:description" content="IV Congreso Internacional Ciencias Administrativas y Económicas" />
+	<meta property="og:url" content="https://www.congresoute.org/" />
+	<meta property="og:site_name" content="FACULTAD CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS" />
+	<meta property="article:modified_time" content="2023-12-14T21:51:01+00:00" />
+	<meta property="og:image" content="https://congresoutlvte.org/facae/2023/images/logo.png" />
 	<meta property="og:image:width" content="100" />
 	<meta property="og:image:height" content="100" />
-	<!-- / Yoast SEO plugin. -->
+
+
+
+
 
 
 
