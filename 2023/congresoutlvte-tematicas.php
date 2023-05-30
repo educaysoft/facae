@@ -1,11 +1,11 @@
 <?php
-include("head0.php");
+include_once("head0.php");
 ?>
 
 
 
 <?php
-include("head.php");
+include_once("head.php");
 ?>
 
 
@@ -183,7 +183,7 @@ include("head.php");
 
 <?php
 
-include("footer.php");
+include_once("footer.php");
 ?>
 
 
@@ -218,8 +218,8 @@ function cargarVideo(url){
 
 
 
+</body>
 
 </html>
 
-</body>
 

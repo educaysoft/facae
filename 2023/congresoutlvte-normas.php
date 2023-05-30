@@ -11,8 +11,12 @@ include("head.php");
 
 
 <div style=" display:flex;flex-direction: column; background-color: white;" >
-
-
+      <div class="col-lg-6 col-md-8 mx-auto">
+<p>
+          <a href="congresoutlvte-normafinal1.php" class="btn btn-primary my-2">Normas para edición</a>
+          <a href="congresoutlvte-normafinal2.php" class="btn btn-secondary my-2">Plantilla para evaluar</a>
+        </p>
+</div>
 <div style="width: 70%; margin:20px auto;">
 
 

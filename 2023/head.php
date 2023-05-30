@@ -21,15 +21,15 @@
         <div class="offcanvas-body">
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="https://congresoutlvte.org/faci">Inicio</a>
+              <a class="nav-link active" aria-current="page" href="https://congresoutlvte.org/facae/2023">Inicio</a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="congresoutlvte-presentacion.php">Presentación</a>
+              <a class="nav-link" href="#seccion1">Presentación</a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="congresoutlvte-normafinal.php">Normativa</a>
+              <a class="nav-link" href="congresoutlvte-normas.php">Normativa</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Agenda</a>
@@ -113,5 +113,6 @@
 		</ul>
 	</div>
 
+</div>
 </div>
 
