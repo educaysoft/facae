@@ -79,7 +79,7 @@
 <!---<div class="d-flex justify-content-center align-items-center h-100">--->
      <div style="width:100%; display:flex; flex-direction:row;  justify-content: space-between; ">
 	<div>
-         <a href="index.php"><img src="images/logo1.png" width="150vh" height="150vh"></a>
+         <a href="index.php"><img src="images/logo1.png" width="100vh" height="100vh"></a>
        </div>
           <div class="text-black">
 <p class="mb-4"><span style="color: white; text-shadow: 2px 2px #000000;font-size:20px;font-weight:bold;">IV CONGRESO INTERNACIONAL <br> DE<br> CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS</span><br><br><span style="font-size:20;color:white;text-shadow:2px 2px #000000;">   En el contexto del desarrollo y sostenibilidad  económica, social e innovación</span><br><br>
@@ -87,7 +87,7 @@
 </p>
 </div>
 <div id="logou" >
-       <a href="https://utelvt.edu.ec/sitioweb/"> <img src="images/logoutlvte2.png" width="160vh" height="160vh"></a>
+       <a href="https://utelvt.edu.ec/sitioweb/"> <img src="images/logoutlvte2.png" width="100vh" height="100vh"></a>
      </div>
 </div>
      
