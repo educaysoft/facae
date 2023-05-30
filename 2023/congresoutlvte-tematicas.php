@@ -26,7 +26,7 @@ include_once("head.php");
       <p style="color:gray;">Coordinador: Ing. Carlos Rivas Vallejo, Mgs.  </p> 
 
     </div>  
-
+<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/RivasVallejoCarlos.png' width='100%' height='100%' style='border-radius:50px;'></div>
 </div>
 </div>
 
@@ -77,12 +77,14 @@ include_once("head.php");
 </div>
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width: 100%;" >
-<div style="width: 60%; display: flex;justify-content: center;align-items: center;">
 
+  <div style=" width: 60%; display: flex;flex-direction:column; justify-content: center;align-items: center;">
   <div style=" margin: auto;text-align: center;">
-    <p style="font-size:20px; margin:10px o 10px 0;">4.- Economía del siglo XXI: Economía circular y en colores. </p>
+    <p style="font-size:20px; margin:10px 0 10px 0;">4.- Economía del siglo XXI: Economía circular y en colores. </p>
     <p style="color:gray;">Coordinador: Ing. Jorgeli Ayovi Caicedo, Mgs.</p> 
   </div>  
+<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/AyoviCaicedoJorgerly.png' width='100%' height='100%' style='border-radius:50px;'></div>
+
 </div>
 
 <div  class="img-contenedor w3-card-4" style=" border:2px solid green;width: 40%; display:flex; justify-content: center;">
