@@ -213,10 +213,10 @@
 	    <ul style="margin:0; padding:0;" class="icons">
 	    <li><a href="congresoutlvte-presentacion.php">Presentación</a></li>
 	    <li><a href="#">Agenda</a></li>
-	    <li><a href="congresoutlvte-normafinal.php">Normativas</a></li>
+	    <li><a href="congresoutlvte-normas.php">Normativas</a></li>
 	    <li><a href="congresoutlvte-todocomite.php">Miembros del comite</a></li>
 	    <li><a href="congresoutlvte-memoria.php" >Memoria de evento</a></li>
-	    <li><a href="congresoutlvte-politica.php">Política de privacidad</a></li>
+	    <li><a href="congresoutlvte-PoliticaPrivacidad.php">Política de privacidad</a></li>
 	    </ul>
 	</div>
 

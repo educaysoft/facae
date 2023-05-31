@@ -36,7 +36,7 @@
    <p  class="badge bg-primary text-wrap" >Nacionales</p>
  <p class="nombre">  Dr. Alfonso Murgueitio Montenegro, PhD.<br><span class="text-primary">(Ecuador)</span></p>
   <p class="nombre">  Dra. Elizabeth Gobea Robinsón, PhD.<br><span class="text-primary">(Ecuador)</span></p>
-   <p class="nombre"> Dr. Féliz Rosales Cortes, PhD.<br><span class="text-primary">(Ecuador)</span></p>
+   <p class="nombre"> Dr. Félix Rosales Cortes, PhD.<br><span class="text-primary">(Ecuador)</span></p>
   <p class="nombre">Dr. Pablo Vilela Mera, PhD.<br><span class="text-primary">(Ecuador)</span></p>
   <p class="nombre">Dra. Marisol Alava Cedeño, Mgs.<br><span class="text-primary">(Ecuador)</span></p>
 

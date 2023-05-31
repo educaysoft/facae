@@ -6,7 +6,7 @@
 
 
 <nav class="navbar bg-light" aria-label="Light offcanvas navbar" style="z-index:7;">
-    <div class="container-fluid">
+    <div class="container-xxl">
 <a class="navbar-brand" href="https://www.utelvt.edu.ec/site/" target="_blank">
       <img src="https://congresoutlvte.org/images/logoutlvte.png" alt="..." height="45">
     </a>
@@ -103,13 +103,13 @@
 
   <div class="social">
 		<ul>
-			<li><a href="https://www.facebook.com/facae.utelvt/" target="_blank" class="fa fa-facebook"></a></li>
+			<li><a href="https://www.facebook.com/facae.utlvte.edu.ec" target="_blank" class="fa fa-facebook"></a></li>
 <!---			<li><a href="http://www.twitter.com/falconmasters" target="_blank" class="fa fa-twitter"></a></li>
 			<li><a href="http://www.googleplus.com/falconmasters" target="_blank" class="fa fa-google"></a></li
 			<li><a href="http://www.pinterest.com/falconmasters" target="_blank" class="fa fa-linkedin"></a></li>  ---->
 	<li><a href="https://youtube.com/playlist?list=PLe-FpXijp6_qocjxhCXEhXUQQWAouFTa_" target="_blank" class="fa fa-youtube"></a></li>
 
-			<li><a href="mailto:congresoutlvte@utelvt.edu.e" class="fa fa-envelope"></a></li>
+			<li><a href="mailto:facae@utelvt.edu.ec" class="fa fa-envelope"></a></li>
 		</ul>
 	</div>
 
