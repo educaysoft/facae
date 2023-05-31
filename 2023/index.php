@@ -306,10 +306,13 @@ include_once("congresoutlvte-precios.php");
 
 
 <?php
-include_once("congresoutlvte-slide-concurso.php");
+include_once("congresoutlvte-albun.php");
 ?>
 
 
+<?php
+include_once("congresoutlvte-album2.php");
+?>
 
 <?php
 include_once("congresoutlvte-comites.php");

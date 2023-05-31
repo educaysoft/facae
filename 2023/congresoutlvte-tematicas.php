@@ -43,7 +43,7 @@ include_once("head.php");
     <p style="color:gray;">Coordinadora: Dra. Olga Quiñonez Cagua, PhD.</p> 
 
   </div>  
-<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/QuinonezCaguaOlgaJackeline.png' width='100%' height='100%' style='border-radius:50px;'></div>
+<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/QuinonezCaguaOlga.png' width='100%' height='100%' style='border-radius:50px;'></div>
 </div>
 
 <div class="img-contenedor w3-card-4"  style=" border:2px solid green;width: 40%; display:flex; justify-content: center;">
