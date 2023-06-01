@@ -224,5 +224,10 @@
 
 </div>
 
+<script>
+document.getElementById("descripcion").innerHTML="El profesor";
+</script>
+
+
 </body>
 </html>

@@ -7,7 +7,7 @@
 	<meta property="og:locale" content="es_EC" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="IV Congreso Internacional Ciencais Administrativas y Económicas" />
-	<meta property="og:description" content="IV Congreso Internacional Ciencias Administrativas y Económicas" />
+	<meta id="descripcion" property="og:description" content="IV Congreso Internacional Ciencias Administrativas y Económicas" />
 	<meta property="og:url" content="https://www.congresoute.org/" />
 	<meta property="og:site_name" content="FACULTAD CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS" />
 	<meta property="article:modified_time" content="2023-12-14T21:51:01+00:00" />
