@@ -92,6 +92,7 @@ function cargarVideo(url){
 
 
 document.getElementById("descripcion").innerHTML="Políticas de Privacidad";
+document.getElementById("titleh").innerHTML="Políticas de Privacidad";
 
 
 
