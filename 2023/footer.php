@@ -66,16 +66,16 @@
 </div>
 </div>
 
-<!-----
 <div style="margin-left:20px;border-top:2px solid green;margin-top: 10px;">
   <div style="padding:20px">  
 
 <div style="float:left; padding:0.5vw; ">
-      <a href="https://www.utelvt.edu.ec/site/"><img src="images/universidades/logoutlvte.png" width="100vw" height="100vh"></a>
+      <a href="https://www.utelvt.edu.ec/site/"><img src="images/LogoEducacionContinua.png" width="100vw" height="100vh"></a>
 
     </div>
 
 
+<!-----
     <div style="float:left; padding:0.5vw; ">
       <a href="https://unf.edu.pe/unf/"><img src="images/universidades/sullana.jpg" width="100vw" height="100vh"></a>
 
@@ -128,10 +128,11 @@
       <a href="https://www.usil.edu.pe"><img src="images/universidades/usil.jpg"  height="100vh"></a>
     </div>
 
+---->
 </div>
 </div>
 
-
+<!-----
 
 <div style="margin-left:20px;border-top:2px solid green;margin-top: 10px;">
   <div style="padding:20px">  

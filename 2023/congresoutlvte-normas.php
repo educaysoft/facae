@@ -22,8 +22,8 @@ list-style: none;
 <div style=" display:flex;flex-direction: column; background-color: white;" >
       <div class="col-lg-6 col-md-8 mx-auto">
 <p>
-          <a href="congresoutlvte-normafinal1.php" class="btn btn-primary my-2">Normas para edición</a>
-          <a href="congresoutlvte-normafinal2.php" class="btn btn-secondary my-2">Plantilla para evaluar</a>
+ <center>         <a href="congresoutlvte-normafinal1.php" class="btn btn-primary my-2">Normas para edición</a></center>
+          
         </p>
 </div>
 <div style="width: 70%; margin:20px auto;">
@@ -31,13 +31,14 @@ list-style: none;
 
 <div class="my-fixed-item w3-card-4" style="width: 100%; margin: 10px auto; background: rgba(218, 247,166  , 0.50); border: 1px solid black; padding:10px;  ">
 <p style="color: black; font-size:2 vw; font-weight: bold;">PRECISIONES ORGANIZATIVAS</p>
-<p style="text-align:justify; font-size:  1vw; margin:10px 0 10px 0;">La presidencia del Comité Académico, tendrá la responsabilidad de revisar, evaluar y seleccionar los trabajos que serán presentados en el IV Congreso Intenacional de Ciencias Administrativas y Económicas".</p>
+<p style="text-align:justify; font-size:  1.5vw; margin:10px 0 10px 0;">La presidencia del Comité Académico, tendrá la responsabilidad de revisar, evaluar y seleccionar los trabajos que serán presentados en el IV Congreso Intenacional de Ciencias Administrativas y Económicas".</p>
 
-<p> No se evaluarán los trabajos que incumplan las normas, ni que hayan sido publicados en otros eventos.</p>
-<p style="text-align:justify; font-size:  1vw;margin:10px 0 10px 0" > Una vez aceptados, los autores enviarán, a uno de los correos siguientes: <b>utelvt.facae.utelvt.edu.ec@gmail.com</b>.</p>
-<p style="text-align: justify; font-size: 1vw; margin:5px 0 5px 0;"> Una presentación de power point cuya plantilla puede descargar en este <a href="https://docs.google.com/presentation/d/16iDWJNBvMasfKkjomTWMnbvfgnQa9gDn/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true"> link</a>.</p> 
-
-<p style="text-align: justify; font-size: 1vw; margin:5px 0 5px 0;"> Un video en formato mp4, con un máximo de 25 MB y 3 minutos de duración, donde el ponente exponga sus principales resultados y la problemática que resuelve.</p>
+<p style="text-align:justify; font-size:  1.5vw;margin:10px 0 10px 0" > No se evaluarán los trabajos que incumplan las normas, ni que hayan sido publicados en otros eventos.</p>
+<p style="text-align:justify; font-size:  1.5vw;margin:10px 0 10px 0" > Una vez aceptados, los autores enviarán, a uno de los correos siguientes: <b>utelvt.facae.utelvt.edu.ec@gmail.com</b>.</p>
+<!---
+<p style="text-align: justify; font-size: 1.5vw; margin:5px 0 5px 0;"> Una presentación de power point cuya plantilla puede descargar en este <a href="https://docs.google.com/presentation/d/16iDWJNBvMasfKkjomTWMnbvfgnQa9gDn/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true"> link</a>.</p> 
+--->
+<p style="text-align: justify; font-size: 1.5vw; margin:5px 0 5px 0;"> Un video en formato mp4, con un máximo de 25 MB y 3 minutos de duración, donde el ponente exponga sus principales resultados y la problemática que resuelve.</p>
 <p><b>Idiomas oficiales :</b>  Español, Ingles, Portugués</p>
 
 </div>

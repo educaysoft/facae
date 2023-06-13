@@ -84,6 +84,7 @@
           <div class="text-black" style="width:60%;" >
 <p class="mb-4"><span style="color: white; text-shadow: 2px 2px #000000;font-size:20px;font-weight:bold;">IV CONGRESO INTERNACIONAL <br> DE<br> CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS</span><br><br><span style="font-size:20;color:white;text-shadow:2px 2px #000000;"> "En el contexto del desarrollo y sostenibilidad  económica, social e innovación"</span><br><br> <span style="font-size:20;color:white;text-shadow:2px 2px #000000;"> 4, 5 y 6 de Septiembre 2023 </span><br> <br> 
  <a class="btn btn-danger my-2"  href="https://forms.gle/cnaf5j2Mq4jRVHrg9">Inscribete aqui</a>
+ <a class="btn btn-danger my-2"  href="congresoutlvte-normas.php">Normas</a>
 </p>
 </div>
 <div   style="width:20%;" >
