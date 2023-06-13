@@ -10,8 +10,8 @@
 
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Coordinadores de los Ejes Temáticos</h1>
-        <p class="lead text-muted">UTLVTE.</p>
+        <h1 class="fw-light">Coordinadores de los Ejes temáticos</h1>
+        <p class="lead text-muted">IV CONGRESO INTERNACIONAL DE CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS - UTLVTE.</p>
       </div>
     </div>
 

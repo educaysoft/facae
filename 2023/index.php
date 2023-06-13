@@ -315,6 +315,12 @@ include_once("congresoutlvte-album2.php");
 ?>
 
 <?php
+include_once("congresoutlvte-album3.php");
+?>
+
+
+
+<?php
 include_once("congresoutlvte-comites.php");
 ?>
 

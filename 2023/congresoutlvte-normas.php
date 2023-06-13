@@ -6,9 +6,18 @@ include("head0.php");
 <?php
 include("head.php");
 ?>
-  
+<style>  
+.ul {
+list-style: none;
+      margin-left:-0.5em;
+ text-indent:-1em;
 
+}
 
+.ul li:before {
+  content: '✓';
+}
+</style>
 
 <div style=" display:flex;flex-direction: column; background-color: white;" >
       <div class="col-lg-6 col-md-8 mx-auto">
@@ -40,31 +49,79 @@ include("head.php");
 
 
 <main class="cd-main-content" >
-<p style="text-align:center; font-weight: bold; font-size: 2vw;">NORMAS<p><br>
-<p style="font-size: 1.5vw; line-height:150% ">Los trabajos que se presenten deberán cumplir las siguientes normas de formato:</p>
+<p style="text-align:center; font-weight: bold; font-size: 2vw;">ESTRUCTURA DE LOS TRABAJO<p><br>
+<p style="font-size: 1.5vw; line-height:150% ">Artículo en extenso(para ponencia oral). Debe ser presentados en hoja tipo carta con márgenes de 2.5 cm en cada lado, tipo de letra Arial 12, interlineado de 1.5 puntos y con una extensión mínima de 15 páginas siguiendo la estructura.</p>
 
-<ul style="padding:2px; text-align: justify; font-size: 1.5vw; "> 
-<li> Cada trabajo tendrá hasta tres autores: nombre(s) y apellido(s) (no se aceptan abreviaturas ni
-iniciales), título académico o grado científico, correo electrónico, institución, nivel educativo en el
-que trabaja (si procede), cargo que desempeña, proyecto de investigación en el que obtuvo los
-resultados (si procede).</li>
+<ul class="ul" style="list-style-type: none; padding:2px; text-align: justify; font-size: 1.5vw; "> 
+<li> Título en español.</li>
 
-<li> Debe corresponderse con una investigación realizada y con alguna de las temáticas generales del
-congreso.</li>
+<li> Datos de los autores (indicando además último grado académico, institución de filiación, país, código ORCID, correo electrónico) .</li>
 
- <li>Resolver una problemática teórica o práctica.</li>
+ <li>  Resumen en españól (máximo 250 palabras).</li>
 
-<li> Debe hacerse énfasis en resultados y conclusiones.</li>
-<li>Mostrar rigor científico y calidad, tanto en el contenido como en su redacción y ortografía.
-El trabajo deberá estar escrito en formato pdf.</li>
-<li>Estructura del trabajo: título, datos de los autores, temática general a la que tributa, resumen,
-palabras clave, introducción, objetivos, métodos, resultados, conclusiones, bibliografía y anexos.
-Extensión mínimo 10 cuartillas, máximo 15 cuartillas.</li>
-<li>Tipo de fuente Arial, tamaño 12 puntos, texto justificado, márgenes 2,0 cm, interlineado 1,5 y
-espaciado 0 puntos.</li>
-<li>El título no debe exceder las 15 palabras. Se escribe en mayúsculas sostenida y negrita.</li>
-<li>El resumen no debe exceder las 250 palabras, tendrá relación con el título, debe reflejar los aspectos más relevantes del trabajo y expresar su importancia teórica y práctica, si responde a una experiencia profesional, a resultados de una investigación o a posibles respuestas a problemas educacionales concretos.</li>
+<li> Palabras claves en español (entre 3 y 5).</li>
+<li> Título en inglés.</li>
+<li> Resumen en ingles.</li>
+<li> Palabras claves en inglés.</li>
+<li> Introducción.</li>
+<li> Referentes teóricos.</li>
+<li> Metodología.</li>
+<li> Resultados.</li>
+<li> Conclusiones.</li>
+<li> Referencias bibliográficas (formato APA Séptima edición; IEEE para ingeniería y tecnología).</li>
 </ul>
+
+<p style="font-size: 1.5vw; line-height:150% ">El documento definitivo debe tener continuidad, ser presentado en un solo archivo.</p>
+
+
+<ul class="ul" style="padding:2px; text-align: justify; font-size: 1.5vw; "> 
+<li><b>Título:</b> Esta relacionado con los objetivos planteados en el trabajo. El mismo debe tener máximo 15 palabras, resaltarse en letras mayúsculas y negritas.</li>
+<li><b>Introducción:</b> Incluira problema de investigación, objetivo, y aporte al objeto de estudio.</li>
+<li><b>Referencia teórica:</b> Discusión de diversos autores de las variables de estudio.</li>
+<li><b>Metodología:</b> Presentar el tipo de investigación, la muestra del estudio, las técnicas e instrumentos, relatar como se establece ese proceso.</li>
+<li><b>Resultados:</b>constituida por secciones y/o subsecciones, identificadas con números arábigos, de acuerdo al sistema decimal, comenzando con el número 1 para la introducción y el último número para las conclusiones.</li>
+<li><b>Conclusiones:</b>Se redacta las conclusiones sin enumerarlas deben ser escritas mediante técnicas de argumentación científica.</li>
+<li><b>Referencias:</b>Deben  incluirse solo materiales citados, incluyendo todos, los datos relevantes.</li>
+
+</ul>
+
+<p style="font-size: 1.5vw; line-height:150% ">Apellidos y nombres del autor (año de publicacidad), título del artículo o capítulo de la revista o libro, editorial o institución, ciudad y país.</p>
+
+<p style="font-size: 1.5vw; line-height:150% "><b>Resumen (para póster).</b> Deben ser presentados en hoja tipo, carta con márgenes de 2.5 cm en cada lado, tipo de letra Arial 12 e interlineado de 1.5 puntos siguiendo la estrutura:</p>
+
+<ul class="ul" style="padding:2px; text-align: justify; font-size: 1.5vw; "> 
+<li>Título en español</li>
+<li>Datos de los autores( indicando además último grado académico, institución de filiación, país, código ORCID, correo electrónico). </li>
+<li> Resumen en español (máximo 250 palabras especificando objetivo, metodología, autores de referencia, principales resultados y concluiones).</li>
+<li> Palabras clave en español (entre 3 y 5)</li>
+<li> Título en ingles</li>
+<li> Resumen en inglés</li>
+<li> Palabras clave en ingles</li>
+
+</ul>
+
+<p style="font-size: 1.5vw; line-height:150% "><b>Criterio</b></p>
+<p style="font-size: 1.5vw; line-height:150% ">Esta normas siguen los lineamientos exigidos en normas internacionales, y son las siguientes:</p>
+
+<ul class="ul" style="padding:2px; text-align: justify; font-size: 1.5vw; "> 
+<li>La ponencia y conferencia deben ser un trabajo inédito, original, relevante y desarrollado con rigor académico, producto de una investigación científica</li>
+<li>El número máximo de autores en una ponencia es de cuatro(4)</li>
+<li>El documento qu se envíe deberá ser la versión definitiva</li>
+<li>Las tablas, figuras, diagramas, fotos, esquemas e ilustraciones en general, además de estar referidas en el contenido, deberán identificarse con números arábigos y en forma consecutiva en texto.</li>
+<li>Los título de las tablas  se colocan en la parte superior de las mismas y los de gráficos, figuras y fotos se colocan en la parte inferior</li>
+<li>Asimismo, su número nho debe excederse de 5 ej: Tabla 1, Figura 1, Gráfico 1, (no usar la abreviatura No). Asimismo, debe indicarse al final del título, la fuente bibliográfica de las mismas, salvo en aquellos casos que sean de autoría propia</li>
+<li> Asegurar que el tipo de letra y el tamaño siempre sean uniformes.</li>
+</ul>
+<p style="font-size: 1.5vw; line-height:150% "><b>PRODUCTOS:</b></p>
+
+<ol class="w3-ul w3-border" style="padding:2px; text-align: justify; font-size: 1.5vw; "> 
+<li> Certificado digital de asistencia y/o ponencia.</li>
+<li> Publicación de los vídeos de las ponencias en el repositorio institucional certificados como contenido multimedia.</li>
+<li> Publicación de resúmenes y artículos en extenso como capítulos de libro arbitrado "Avances en investigación científica".</li>
+<li> Los quince (15) trabajos mejor valorados, de acuerdo al área temática, serán seleccionados para su publicación como artículos en revistas de alto impacto.</li>
+</ol>
+
+
 </br><br>
 </main>
 
