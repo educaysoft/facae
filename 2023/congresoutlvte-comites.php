@@ -28,7 +28,7 @@
 
 <div style="float:left; width: 20%;">
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE CIENTÍFICO</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ CIENTÍFICO</b></p>
 
   </header>
   <main>
@@ -60,7 +60,7 @@
 
 <div style="float:left; width: 20%; padding-right:10px;">
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE ORGANIZADOR</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ ORGANIZADOR</b></p>
   </header>
   <main>
 
@@ -109,7 +109,7 @@ Mundial</p>
 
 <div style="float:left; width: 20%; padding-right:10px">
   <header>
-    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE DE EDITORIAL DEL LIBRO</b></p>
+    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ DE EDITORIAL DEL LIBRO</b></p>
   </header>
 
   <main>
