@@ -5,7 +5,7 @@
 
 
 
-<nav class="navbar bg-light" aria-label="Light offcanvas navbar" style="z-index:7; ">
+<nav class="navbar bg-light" aria-label="Light offcanvas navbar" style="z-index:7;">
     <div class="container-xxl">
 <a class="navbar-brand" href="https://www.utelvt.edu.ec/site/" target="_blank">
       <img src="https://congresoutlvte.org/images/logoutlvte.png" alt="..." height="45">
@@ -72,20 +72,35 @@
 
 
 <map name="portada">
-  <area shape="rect" coords="250,300,440,500" alt="xxx" href="https://forms.gle/cnaf5j2Mq4jRVHrg9">
-  <area shape="rect" coords="470,300,670,500" alt="xxx" href="congresoutlvte-normas.php">
-
-
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
 </map>  
-<img src="images/portadaholguin.jpeg" class="img-fluid" usemap="#portada"  alt="portada">
-<!---
-<div   id="intro-example"  class="p-5 text-center bg-image" usemap="#portada"   style="  background-color:rgb(123,203,158);background-size:100% auto;background-position:center top; background-repeat:no-repeat; background-image: url('images/portadaholguin.jpeg');" >
-	
+
+<div   id="intro-example"  class="p-5 text-center bg-image " usemap="#portada"   style="background-color:rgb(123,203,158);background-size:100% auto;background-position:center top; background-repeat:no-repeat; background-image: url('images/portadaholguin.jpeg');" >
+	<div class="mask" style="background-color:hsla(120,100%,50%,0.0)">
+<!---<div class="d-flex justify-content-center align-items-center h-100">--->
+     <div style="width:cal(100% - 40px); display:flex; flex-direction:row;  justify-content: space-between; margin-top:10px; ">
+	<div style="width:20%;"  >
+         <a href="index.php"><img src="images/logo1.png" width="100vh" height="100vh"></a>
+       </div>
+          <div class="text-black" style="width:60%;" >
+<p class="mb-4"><span style="color: white; text-shadow: 2px 2px #000000;font-size:20px;font-weight:bold;">IV CONGRESO INTERNACIONAL <br> DE<br> CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS</span><br><br><span style="font-size:20;color:white;text-shadow:2px 2px #000000;"> "En el contexto del desarrollo y sostenibilidad  económica, social e innovación"</span><br><br> <span style="font-size:20;color:white;text-shadow:2px 2px #000000;"> 4, 5 y 6 de Septiembre 2023 </span><br> <br> 
+ <a class="btn btn-danger my-2"  href="https://forms.gle/cnaf5j2Mq4jRVHrg9">Inscribete aqui</a>
+ <a class="btn btn-danger my-2"  href="congresoutlvte-normas.php">Normas</a>
+</p>
+</div>
+<div   style="width:20%;" >
+       <a href="https://utelvt.edu.ec/sitioweb/"> <img src="images/logoutlvte2.png" width="100vh" height="100vh"></a>
+     </div>
+</div>
+     
+  </div>
+</div>
 
   
+</main>
 
 </div>
---->
+
 
 
   <div class="social">
@@ -99,7 +114,7 @@
 			<li><a href="mailto:facae@utelvt.edu.ec" class="fa fa-envelope"></a></li>
 		</ul>
 	</div>
-</main>
+
 </div>
 </div>
 

@@ -2,8 +2,6 @@
 include_once("head0.php");
 ?>
 
-
-
 <?php
 include_once("head.php");
 ?>
