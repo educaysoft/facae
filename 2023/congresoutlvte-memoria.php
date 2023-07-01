@@ -39,15 +39,11 @@ Evidencias del trabajo realizado durante todo el proceso de difusión, organizac
 Primer tríptico promosional.
 </div >
 
-
-
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
       <img src="images/Memoria/PrimeraPublicacionFacebook.jpg" style="width:100%; ">
   </div>
-  
-  
-	</div>
+</div>
 
 
 
@@ -88,13 +84,13 @@ Mesa de trabajo para afinar detalles en la plataforma Web del Congreso.
 
 
 <div style="pading:20px;">
-Mesa de trabajo.
+Promoción Ejes Temáticos 1 y 2.
 </div >
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/MesaDeTrabajo3.jpg" style="width:100%; ">
+      <img src="images/Memoria/PromosionEjeTematico-1-2.jpeg" style="width:100%; ">
   </div>
   
   
@@ -104,51 +100,25 @@ Mesa de trabajo.
 
 
 <div style="padding:20px;">
-Quinta inscripción conferencistas nacionales.
+Promoción Ejes Temáticos 3 y 4.
 </div >
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria1.jpg" style="width:100%; ">
+      <img src="images/Memoria/PromosionEjeTematico-3-4.jpeg" style="width:100%; ">
   </div>
 	</div>  
 
 
 <div style="padding:20px;">
-Sexta inscripción conferencistas internacionales.
+Promoción Ejes Temáticos 5,6 y 7.
 </div >
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria7.jpg" style="width:100%; ">
-  </div>
-	</div>  
-
-
-
-<div style="padding:20px;">
-Septima inscripción conferencistas internacionales.
-</div >
-
-
-<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
-  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria8.jpg" style="width:100%; ">
-  </div>
-	</div>  
-
-
-
-<div style="padding:20px;">
-Novena inscripción conferencistas internacionales.
-</div >
-
-
-<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
-  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria9.jpg" style="width:100%; ">
+      <img src="images/Memoria/PromosionEjeTematico-5-6-7.jpeg" style="width:100%; ">
   </div>
 	</div>  
 
@@ -157,17 +127,8 @@ Novena inscripción conferencistas internacionales.
 
 
 
-<div style="padding:20px;">
-Decima segunda inscripción conferencistas internacionales.
-</div >
 
 
-
-<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
-  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/flyer7.jpg" style="width:100%; ">
-  </div>
-	</div>  
 
 
 
