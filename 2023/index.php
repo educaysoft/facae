@@ -262,6 +262,10 @@ include_once("congresoutlvte-objetivo.php");
 include_once("congresoutlvte-ejestematicos.php");
 ?>
 
+<?php
+include_once("congresoutlvte-slide.php");
+?>
+
 
 
 <?php

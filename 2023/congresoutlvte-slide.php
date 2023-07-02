@@ -13,7 +13,7 @@
 
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Presentación y participación al evento</h1>
+        <h1 class="fw-light">Difusión</h1>
       </div>
     </div>
 
@@ -37,40 +37,40 @@
   <!-- The slideshow/carousel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <a href="congresoutlvte-presentacion.php" class="stretched-link"><img src="images/slide/faci2.jpg" alt="Los Angeles" class="d-block" style="width:100%"></a>
+      <a href="congresoutlvte-presentacion.php" class="stretched-link"><img src="images/afiche.jpeg" alt="Los Angeles" class="d-block" style="width:100%"></a>
       <div class="carousel-caption">
         <h3></h3>
         <p></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/slide/DocentePonente.jpg" alt="Chicago" class="d-block" style="width:100%">
+      <img src="images/afiche.jpeg" alt="Chicago" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3 style="color:red">Docente ponente</h3>
-        <p> <a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php"> Inscribete ya </a> </p>
+        <h3 style="color:red"></h3>
+        <p>  </p>
       </div> 
     </div>
     <div class="carousel-item">
-      <img src="images/slide/EstudiantePonente2.jpg" alt="New York" class="d-block" style="width:100%">
+      <img src="images/afiche1.jpeg" alt="New York" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3 style="color:black">Estudiante ponente</h3>
-        <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php"> Inscribete ya</a></p>
+        <h3 style="color:black"></h3>
+        <p></p>
       </div>  
     </div>
 
 <div class="carousel-item">
-      <img src="images/slide/EstudianteParticipante2.jpg" alt="New York" class="d-block" style="width:100%">
+      <img src="images/afiche2.jpeg" alt="New York" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3>Estudiantes participantes</h3>
-        <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php"> Inscribete ya</a></p>
+        <h3></h3>
+        <p></p>
       </div>  
     </div>
 
 <div class="carousel-item">
-      <img src="images/slide/DocenteParticipante1.jpg" alt="New York" class="d-block" style="width:100%">
+      <img src="images/afiche3.jpeg" alt="New York" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3>Docentes participantes</h3>
-        <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php"> Inscribete ya </a></p>
+        <h3></h3>
+        <p></p>
       </div>  
     </div>
   </div>
