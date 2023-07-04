@@ -9,7 +9,7 @@
 <li> Proyectar la visión de cada una de las carreras que se desarrollan en esta casa de estudios.</li>
 <li> Dar a conocer los avances de investigación docente y profesionales de la administración, comercio y contablidad.</li>
 <li> Fomentar la cultura de investigación en estudiantes y docentes.</li>
-<li> Estimular la participación de estudiantes y docentes en actividades de divulgación científica para los proyectos educutados durante sus actividades de formación profesional.</li>
+<li> Estimular la participación de estudiantes y docentes en actividades de divulgación científica para los proyectos ejecutados durante sus actividades de formación profesional.</li>
 </ul>
 
 <p style="color: black; font-size:2vw; font-weight: bold;">Participantes:</p>
