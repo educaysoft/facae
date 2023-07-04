@@ -262,11 +262,6 @@ include_once("congresoutlvte-objetivo.php");
 include_once("congresoutlvte-ejestematicos.php");
 ?>
 
-<?php
-include_once("congresoutlvte-slide.php");
-?>
-
-
 
 <?php
 include_once("cuenta-regresiva.php");
@@ -280,7 +275,7 @@ include_once("congresoutlvte-datosclaves.php");
 
 
 <?php
-//include_once("inblue.php");
+include_once("inblue.php");
 ?>
 
 <?php
@@ -321,6 +316,10 @@ include_once("congresoutlvte-album2.php");
 <?php
 include_once("congresoutlvte-album3.php");
 ?>
+
+
+
+
 
 
 

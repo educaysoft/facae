@@ -78,6 +78,12 @@
 
     </div>
 
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://inblueditorial.com/"><img src="images/inblue.png" width="100vw" height="100vh"></a>
+
+    </div>
+
+
 <!-----
     <div style="float:left; padding:0.5vw; ">
       <a href="https://unf.edu.pe/unf/"><img src="images/universidades/sullana.jpg" width="100vw" height="100vh"></a>

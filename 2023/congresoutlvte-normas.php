@@ -18,7 +18,7 @@ include_once("head.php");
 
 <div class="my-fixed-item w3-card-4" style="width: 100%; margin: 10px auto; background: rgba(218, 247,166,0.50); border: 1px solid black; padding:10px;  ">
 <p style="color: black; font-size:2vw; font-weight: bold;">PRECISIONES ORGANIZATIVAS</p>
-<p style="text-align:justify; font-size: 1.5vw; margin:10px 0 10px 0;">La presidencia del Comité Académico, tendrá la responsabilidad de revisar, evaluar y seleccionar los trabajos que serán presentados en el IV Congreso Intenacional de Ciencias Administrativas y Económicas".</p>
+<p style="text-align:justify; font-size: 1.5vw; margin:10px 0 10px 0;">La presidencia del Comité Académico, tendrá la responsabilidad de revisar, evaluar y seleccionar los trabajos que serán presentados en el IV Congreso Intenacional de Ciencias Administrativas y Económicas.</p>
 
 <p style="text-align:justify; font-size:  1.5vw;margin:10px 0 10px 0" > No se evaluarán los trabajos que incumplan las normas, ni que hayan sido publicados en otros eventos.</p>
 <p style="text-align:justify; font-size:  1.5vw;margin:10px 0 10px 0" > Una vez aceptados, los autores enviarán, a uno de los correos siguientes: <b>utelvt.facae.utelvt.edu.ec@gmail.com</b>.</p>
