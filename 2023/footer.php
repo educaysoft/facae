@@ -33,6 +33,14 @@
     </div>
     </div>
 
+<div style=" padding:0.5vw; position: relative ; width:10%;">
+   <div style="position:absolute; bottom: 0;width: 100%;">    
+
+      <img src="images/honduras.png" width="100%" >
+      <center><p>Honduras</p></center>
+    </div>
+    </div>
+
 
    <div style=" padding:0.5vw; position: relative; width:10%;  ">
    <div style="position:absolute; bottom: 0;height: 100%; display:flex; flex-direction: column ; justify-content: end;">    
