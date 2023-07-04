@@ -38,7 +38,7 @@ include_once("head.php");
 
 <main class="cd-main-content" >
 <p style="text-align:center; font-weight: bold; font-size: 2vw;">ESTRUCTURA DE LOS TRABAJO<p><br>
-<p style="font-size: 1.5vw; line-height:150% ">Artículo en extenso(para ponencia oral). Debe ser presentados en hoja tipo carta con márgenes de 2.5 cm en cada lado, tipo de letra Arial 12, interlineado de 1.5 puntos y con una extensión mínima de 15 páginas siguiendo la estructura.</p>
+<p style="font-size: 1.5vw; line-height:150% ">Artículo en extenso(para ponencia oral). Deben ser presentados en hoja tipo carta con márgenes de 2.5 cm en cada lado, tipo de letra Arial 12, interlineado de 1.5 puntos y con una extensión mínima de 15 páginas siguiendo la estructura.</p>
 
 <ul class="ul" style="list-style-type: none; padding:2px; text-align: justify; font-size: 1.5vw; "> 
 <li> Título en español.</li>
