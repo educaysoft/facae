@@ -36,7 +36,7 @@
 
         <div class="col">
           <div class="card shadow-sm">
-            <img src="images/QuinonezCaguaOlga.png">
+            <img src="images/QuinonezOlga.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Quiñonez Cagua Olga</strong>  <br>2.-Calidad de la Gestión Innovadora y desruptiva de los negocios&nbsp</p>
@@ -51,10 +51,10 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img src="images/GodoyRoseroCesar.png">
+            <img src="images/HolguinCarlos.jpg">
 
             <div class="card-body">
-              <p class="card-text"><b>Godoy Rosero Cesar</b><br>3.-Tecnología y su relación con el crecimiento  y el desarrollo económico.</p>
+              <p class="card-text"><b>Holguin Cedeño Carlos</b><br>3.-Tecnología y su relación con el crecimiento  y el desarrollo económico.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button onclick="location.href='https://drive.google.com/file/d/11G1KDWITAM6KV_xKlIRnh6izpUOSE1xm/view'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
@@ -68,7 +68,7 @@
 
 <div class="col">
           <div class="card shadow-sm">
-            <img src="images/AyoviCaicedoJorgerly.png">
+            <img src="images/AyoviJorgerly.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Ayovi Caicedo Jorgerly</strong> <br>4.-Economía del siglo XXI: Economía circular y en colores.</p>
@@ -83,10 +83,48 @@
           </div>
         </div>
 
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="images/CanchingreLuis.jpg">
+
+            <div class="card-body">
+              <p class="card-text"><b>Canchingre Bone Luis</b><br>5.-Rol de los escenarios actuales de la empresa pública y privada.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button onclick="location.href='https://drive.google.com/file/d/11G1KDWITAM6KV_xKlIRnh6izpUOSE1xm/view'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
+                  <button disabled type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                </div>
+             <!---   <small class="text-muted">9 mins</small>  -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
 
 <div class="col">
           <div class="card shadow-sm">
-            <img src="images/OyarvideRomina.png">
+            <img src="images/ArcePatricio.jpg">
+
+            <div class="card-body">
+              <p class="card-text"><strong>Arde Patricio Minda</strong> <br>6.- Movilidad y seguridad humana en el desarrollo econónico.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button onclick="location.href='https://drive.google.com/file/d/1uPoHjQxpr9rgwENy6ovfMY9RQJvNokSI/view'" disabled  type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
+                  <button disabled type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                </div>
+             <!---   <small class="text-muted">9 mins</small>  -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="images/OyarvideRomina.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Oyarvide Ibarra Romina</strong> <br>7.- Liderazgo, comunicación interna y cultura organizacional.</p>

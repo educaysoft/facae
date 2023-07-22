@@ -21,7 +21,7 @@ include_once("head.php");
 <p style="text-align:justify; font-size: 1.5vw; margin:10px 0 10px 0;">La presidencia del Comité Académico, tendrá la responsabilidad de revisar, evaluar y seleccionar los trabajos que serán presentados en el IV Congreso Intenacional de Ciencias Administrativas y Económicas.</p>
 
 <p style="text-align:justify; font-size:  1.5vw;margin:10px 0 10px 0" > No se evaluarán los trabajos que incumplan las normas, ni que hayan sido publicados en otros eventos.</p>
-<p style="text-align:justify; font-size:  1.5vw;margin:10px 0 10px 0" > Una vez aceptados, los autores enviarán, a uno de los correos siguientes: <b>utelvt.facae.utelvt.edu.ec@gmail.com</b>.</p>
+<p style="text-align:justify; font-size:  1.5vw;margin:10px 0 10px 0" > Una vez aceptados, los autores enviarán, a uno de los correos siguientes: <b>facae@utelvt.edu.ec</b>.</p>
 <!---
 <p style="text-align: justify; font-size: 1.5vw; margin:5px 0 5px 0;"> Una presentación de power point cuya plantilla puede descargar en este <a href="https://docs.google.com/presentation/d/16iDWJNBvMasfKkjomTWMnbvfgnQa9gDn/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true"> link</a>.</p> 
 --->
