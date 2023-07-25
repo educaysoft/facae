@@ -128,9 +128,8 @@ Mundial</p>
   </header>
   <main>
 
- <p><span class="nombre">Dr. Patricio Arce Minda, Mgs.</span><br>
   <span class="nombre">Ing. Stalin Francis Quinde, MsC.</span><br> 
-  <span class="nombre">Ing. Pascolin Guilcatoma Moreira, MsC.</span></p>
+  <span class="nombre">Ing. Carlos Holguín Cedeño, Mgs.</span><br> 
    
 
   </main>
