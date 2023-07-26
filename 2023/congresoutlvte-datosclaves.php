@@ -83,7 +83,7 @@
      <!---   <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg> -->
         <div>
           <h4 class="fw-bold mb-0">Inscripciones ponencias y posters</h4>
-          <p>Del 19 de mayo hasta el 23 de junio del 2023.<br>
+          <p>Del 01 de julio hasta el 04 de agosto del 2023.<br>
           <a href="congresoutlvte-normas.php">Ver normativas</a></p>
         </div>
       </div>
@@ -92,7 +92,7 @@
         <!-- <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"/></svg> -->
         <div>
           <h4 class="fw-bold mb-0">Notificación de aceptación</h4>
-          <p>Hasta el 21 de julio del 2023.</p>
+          <p>Hasta el 15 de agosto del 2023.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -121,14 +121,14 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Foros y Coloquios</h4>
-          <p>4,5 y 6 de noviembre del 2023<br> <a href="#cursos">Más Información</a></p>
+          <p>Lunes 4, martes 5 y miercoles 6 de noviembre del 2023<br> <a href="#cursos">Más Información</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#geo-fill"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Productos </h4>
-          <p>Libro de memoria,Certificados, Derechos de Autor, ISBN, ISSN</p>
+          <p>Libro de memoria,Certificados(40h), Derechos de Autor, ISBN, ISSN</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -137,7 +137,7 @@
 
         <div>
           <h4 class="fw-bold mb-0">Celebración del congreso</h4>
-          <p> 4,5,6 de septiembre del 2023</p>
+          <p>Lunes 4, martes 5, miercoles 6 de septiembre del 2023</p>
         </div>
       </div>
     </div>

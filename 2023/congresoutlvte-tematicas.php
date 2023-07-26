@@ -7,12 +7,20 @@ include_once("head.php");
 ?>
 
 
+
+
 <div style="width: 100%; margin:0px auto; padding: 10px;background-color: white;">
 
 <main id="agenda" class="cd-main-content" style="margin-top:0%">
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> EJES TEMÁTICOS</p>
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+
+
+
+
+
+
   <div  class="img-contenedor w3-card-4"  style="border:2px solid green; width: 40%; display:flex; justify-content: center; align-items: center;">
       <img src="images/tematica1.jpg" style="width:100%">
   </div>
