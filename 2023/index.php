@@ -283,6 +283,10 @@ include_once("congresoutlvte-album.php");
 ?>
 
 
+<?php
+include_once("congresoutlvte-precios.php");
+?>
+
 
 
 <?php
