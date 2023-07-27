@@ -46,7 +46,7 @@ Rector de la UTLVTE</p>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>ASESOR RELATOR ACADÉMICO</b></p>
   </header>
   <main>
-  <p><span class="nombre">Ing. Marco Raúl Quinteros González, Mgs.</span></p> 
+  <p><span class="nombre">Ing. Marco Raúl Quinteros González, Mgtr.</span></p> 
 
 </main>
 </div>
@@ -57,12 +57,12 @@ Rector de la UTLVTE</p>
   </header>
   <main>
 
-  <p><span class="nombre">Ing. María Fernanda Mosquera Torres, Mgs.</span><br> 
-  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgs.</span><br> 
-  <span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgs.</span><br> 
-  <span class="nombre">Ing. Elaine Yanin Tenorio Canchingre, Mgs.</span><br> 
-  <span class="nombre">Ing. Ana Lucia Quintana Lovato, Mgs.</span><br> 
-  <span class="nombre">Ing. Jazmina Andrea Reina Zambrano, Mgs.</span></p> 
+  <p><span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span><br> 
+  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgtr.</span><br> 
+  <span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgtr.</span><br> 
+  <span class="nombre">Ing. Elaine Yanin Tenorio Canchingre, Mgtr.</span><br> 
+  <span class="nombre">Ing. Ana Lucia Quintana Lovato, Mgtr.</span><br> 
+  <span class="nombre">Ing. Jazmina Andrea Reina Zambrano, Mgtr.</span></p> 
 
 
 </main>
@@ -129,18 +129,18 @@ Rector de la UTLVTE</p>
 (UTLVTE)</p>
 
 
-  <p><span class="nombre">Ing. Walter Edgar Saavedra Segura, Mgs.</span><br>
+  <p><span class="nombre">Ing. Walter Edgar Saavedra Segura, Mgtr.</span><br>
 (UTLVTE)</p>
 
 
-  <p><span class="nombre">Ing. Ana Lucía Quintana Lovato, Mgs.</span><br>
+  <p><span class="nombre">Ing. Ana Lucía Quintana Lovato, Mgtr.</span><br>
 (UTLVTE)</p>
 
 
-  <p><span class="nombre">Ing. Carlos Andrés Holguin Cedeño, Mgs.</span><br>
+  <p><span class="nombre">Ing. Carlos Andrés Holguin Cedeño, Mgtr.</span><br>
 (UTLVTE)</p>
 
-  <p><span class="nombre">Ing. María Fernanda Caicedo Nazareno, Mgs.</span><br>
+  <p><span class="nombre">Ing. María Fernanda Caicedo Nazareno, Mgtr.</span><br>
 (UTLVTE)</p>
 </main>
 </div>
@@ -155,25 +155,25 @@ Rector de la UTLVTE</p>
    <p  class="badge bg-primary text-wrap" > Tema: Talento
 Humano</p>
 
-  <p><span class="nombre">Ing. Jazmina Andrea Reina Zambrano, Mgs.</span><br> 
-  <span class="nombre">Ing. Norma Shirley Ayovi Realpe, Mgs.</span><br> 
-  <span class="nombre">Ing. Mercedes Magdalena Bustos Gámez, Mgs.</span><br> 
-  <span class="nombre">Ing. María Fernanda Mosquera Torres, Mgs.</span><br> 
-  <span class="nombre">Ing. Ana Lucia Quintana Lovato, Mgs.</span><br> 
-  <span class="nombre">Ing. Yimabel del Rocío Cortes Arce, Mgs.</span><br> 
-  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgs.</span><br> 
-  <span class="nombre">Ing. Jefferson Humberto Figueroa Moreno, Mgs.</span></p>
+  <p><span class="nombre">Ing. Jazmina Andrea Reina Zambrano, Mgtr.</span><br> 
+  <span class="nombre">Ing. Norma Shirley Ayovi Realpe, Mgtr.</span><br> 
+  <span class="nombre">Ing. Mercedes Magdalena Bustos Gámez, Mgtr.</span><br> 
+  <span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span><br> 
+  <span class="nombre">Ing. Ana Lucia Quintana Lovato, Mgtr.</span><br> 
+  <span class="nombre">Ing. Yimabel del Rocío Cortes Arce, Mgtr.</span><br> 
+  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgtr.</span><br> 
+  <span class="nombre">Ing. Jefferson Humberto Figueroa Moreno, Mgtr.</span></p>
 
 
    <p  class="badge bg-primary text-wrap" > Tema: Geopolítico
 Mundial</p>
   <p><span class="nombre">Dr. Félix Segundo Rosales Cortes, PhD.</span><br> 
-  <span class="nombre"> Ing. Walter Edgar Saavedra Segura. Mgs.</span><br>
+  <span class="nombre"> Ing. Walter Edgar Saavedra Segura. Mgtr.</span><br>
   <span class="nombre"> Ing. Gorqui Augusto Estupiñan Vivas.</span><br>
-  <span class="nombre"> Ing. Gustavo Roberto Castillo Ruano, Mgs.</span><br>
-  <span class="nombre"> Ing. José Jorge Cortez Altafuya, Mgs.</span><br>
-  <span class="nombre"> Ing. Pacha Marquez, Mgs.</span><br>
-  <span class="nombre"> Ing. Ingrid Tania Nazareno Veliz, Mgs.</span><br>
+  <span class="nombre"> Ing. Gustavo Roberto Castillo Ruano, Mgtr.</span><br>
+  <span class="nombre"> Ing. José Jorge Cortez Altafuya, Mgtr.</span><br>
+  <span class="nombre"> Ing. Pacha Marquez, Mgtr.</span><br>
+  <span class="nombre"> Ing. Ingrid Tania Nazareno Veliz, Mgtr.</span><br>
   <span class="nombre"> Eco. Jorge Antonio Merchán Rumbea.</span></p>
   </main>
 </div>
@@ -189,9 +189,9 @@ Mundial</p>
   <main>
 
   <p><span class="nombre">Dr. Alfredo Plaza Castillo,PhD.</span><br>
-  <span class="nombre">Ing. Jesús Alfredo Gómez Ladines, Mgs.</span><br>
-  <span class="nombre">Ing. Walter Becerra Quiñonez, Mgs.</span><br>
-  <span class="nombre">Ing. Elaine Yanin Tenorio Canchingre, Mgs.</span></p>
+  <span class="nombre">Ing. Jesús Alfredo Gómez Ladines, Mgtr.</span><br>
+  <span class="nombre">Ing. Walter Becerra Quiñonez, Mgtr.</span><br>
+  <span class="nombre">Ing. Elaine Yanin Tenorio Canchingre, Mgtr.</span></p>
 
 <p> <span class="nombre">Estudiante Cesar Augusto Rivadeneira Mendoza.</span><br>
 (CARRERA DE ADMINISTRACIÓN)</p>
@@ -210,7 +210,7 @@ Mundial</p>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>CORDINADORES EJES TEMÁTICOS</b></p>
   </header>
   <main>
-<p> <span class="nombre">Ing. Carlos Enrique Rivas Vallejo, Mgs.</span><br> 
+<p> <span class="nombre">Ing. Carlos Enrique Rivas Vallejo, Mgtr.</span><br> 
 <i style="color: blue">(Responsabilidad social y empresarial.)</i></p>
 
 
@@ -221,14 +221,14 @@ Mundial</p>
 <i style="color: blue">(Tecnologías y su relación con el crecimiento y el desarrollo económico.)</i></p>
 
 
-<p> <span class="nombre">Ing. Jorgeli Ayoví Caicedo, Mgs.</span><br> 
+<p> <span class="nombre">Ing. Jorgeli Ayoví Caicedo, Mgtr.</span><br> 
 <i style="color: blue">(Economía del siglo XXI, economía circular y en colores.)</i></p>
 
 
-<p> <span class="nombre">Ing. Luis Aldimir Canchingre Bone, Mgs.</span><br> 
+<p> <span class="nombre">Ing. Luis Aldimir Canchingre Bone, Mgtr.</span><br> 
 <i style="color: blue">(Rol de los escenarios actuales de la empresa pública y privada.)</i></p>
 
-<p> <span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgs.</span><br> 
+<p> <span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgtr.</span><br> 
 <i style="color: blue">(Liderazgo, comunicación interna y cultura organizacional.)</i></p>
 
 
@@ -260,10 +260,10 @@ Mundial</p>
 <i style="color: blue">COORDINADOR ACADÉMICO</i></p>  
 <p><span class="nombre">Dr. Julio Alfonso Murgueitto Montenegro. PhD.</span></br> 
 <span class="nombre">Dr. Pablo Domingo Vilela Mera, PhD.</span></br> 
-<span class="nombre">Dra. Marisol del Rocio Alava Cedeñó, Mgs.</span></br> 
+<span class="nombre">Dra. Marisol del Rocio Alava Cedeñó, Mgtr.</span></br> 
 <span class="nombre">Dr. Gustavo Darío Robles Quiñónez</span></br> 
-<span class="nombre">Ing. Fanny Graciela Egas Moreno, Mgs</span></br> 
-<span class="nombre">Ing. Alex Paul Alencastro Guerrero, Mgs.</span></p> 
+<span class="nombre">Ing. Fanny Graciela Egas Moreno, Mgtr</span></br> 
+<span class="nombre">Ing. Alex Paul Alencastro Guerrero, Mgtr.</span></p> 
 
 
 </main>
@@ -274,12 +274,12 @@ Mundial</p>
   </header>
   <main>
 
-  <span class="nombre">Ing. Luis Aldimir Canchingre Bone, Mgs.</span><br> 
-  <span class="nombre">Ing. Romina Tamagra Oyarvide Ibarra, Mgs.</span><br> 
-  <span class="nombre">Ing. María Fernanda Mosquera Torres, Mgs.</span><br> 
-  <span class="nombre">Ing. Iván Octavio Endara Arguello, Mgs.</span><br> 
-  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgs.</span><br> 
-  <span class="nombre">Ing. Alex Paul Alencastro Guerrero, Mgs.</span><br> 
+  <span class="nombre">Ing. Luis Aldimir Canchingre Bone, Mgtr.</span><br> 
+  <span class="nombre">Ing. Romina Tamagra Oyarvide Ibarra, Mgtr.</span><br> 
+  <span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span><br> 
+  <span class="nombre">Ing. Iván Octavio Endara Arguello, Mgtr.</span><br> 
+  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgtr.</span><br> 
+  <span class="nombre">Ing. Alex Paul Alencastro Guerrero, Mgtr.</span><br> 
    
 
   </main>
@@ -290,11 +290,11 @@ Mundial</p>
   </header>
   <main>
 <p><span class="nombre">Ing. Elaine Yanin Tenorio Canchingres, MsC.</span></br> 
-<span class="nombre">Ing. Ana Lucía Quintana Lovato, Mgs.</span></br> 
-<span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgs.</span></br> 
-<span class="nombre">Ing. María Fernanda Mosquera Torres, Mgs.</span></br> 
-<span class="nombre">Ing. Johanna Alejandra Custode Quiñonez, Mgs</span></br> 
-<span class="nombre">Ing. Yimabel del Rocio Cortes Arce, Mgs.</span></p> 
+<span class="nombre">Ing. Ana Lucía Quintana Lovato, Mgtr.</span></br> 
+<span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgtr.</span></br> 
+<span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span></br> 
+<span class="nombre">Ing. Johanna Alejandra Custode Quiñonez, Mgtr</span></br> 
+<span class="nombre">Ing. Yimabel del Rocio Cortes Arce, Mgtr.</span></p> 
 
 
 </main>
@@ -310,7 +310,7 @@ Mundial</p>
   <main>
 
   <span class="nombre">Ing. Stalin Francis Quinde, MsC.</span><br> 
-  <span class="nombre">Ing. Carlos Holguín Cedeño, Mgs.</span><br> 
+  <span class="nombre">Ing. Carlos Holguín Cedeño, Mgtr.</span><br> 
    
 
   </main>
