@@ -78,7 +78,7 @@
  <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light">¿Cómo participar?</h1>
-        <p class="lead text-muted">Puedes participar en cualquiera de la 5 modalidades.</p>
+        <p class="lead text-muted">Puedes participar en cualquiera de la 5 modalidades de forma <b>GRATUIDA</b>.</p>
       </div>
     </div>
 
