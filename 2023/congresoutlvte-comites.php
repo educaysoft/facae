@@ -17,11 +17,11 @@ Rector de la UTLVTE</p>
   Vicerrector de Investigación y Postgrado</p>
   
 
-<p> <span class="nombre">Dra. Elizabeth Canchingre Bone. PhD.</span><br> 
+<p> <span class="nombre">Dr. Elizabeth Canchingre Bone. PhD.</span><br> 
 <i style="color: blue">SEGUNDA VICE-PRESIDENTA</i><br>  
   Vicerrectora Académica de la UTLVTE<br>
 
-  <p><span class="nombre">Dra. Mariuxi Guijarro Cagua, PhD.</span><br> 
+  <p><span class="nombre">Dr. Mariuxi Guijarro Cagua, PhD.</span><br> 
 <i style="color: blue">COORDINADORA GENERAL</i><br>  
   Decana de la FACAE-UTLVTE</p>
 
@@ -34,7 +34,7 @@ Rector de la UTLVTE</p>
   </header>
   <main>
 
-  <p><span class="nombre">Dra. Mariuxi Guijarro Cagua, PhD.</span><br> 
+  <p><span class="nombre">Dr. Mariuxi Guijarro Cagua, PhD.</span><br> 
   <span class="nombre">Ing. Jorge Enrrique Salazar Sánchez, MBA.</span></p> 
 
 
