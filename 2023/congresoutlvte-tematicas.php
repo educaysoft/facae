@@ -49,7 +49,7 @@ include_once("head.php");
     <p style="color:gray;">Coordinadora: Dra. Olga Quiñonez Cagua, PhD.</p> 
 
   </div>  
-<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/QuinonezCaguaOlga.png' width='100%' height='100%' style='border-radius:50px;'></div>
+<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/QuinonezOlga.jpg' width='100%' height='100%' style='border-radius:50px;'></div>
 </div>
 
 <div class="img-contenedor w3-card-4"  style=" border:2px solid green;width: 40%; display:flex; justify-content: center;">
@@ -71,9 +71,9 @@ include_once("head.php");
   <div style=" width: 60%; display: flex;flex-direction:column; justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
       <p style="font-size: 20px; margin:10px 0 10px 0;">3.- Tecnología y su relación con el crecimiento y el desarrollo económico. </p>
-      <p style="color:gray;">Coordinador: Ing. Cesar Godoy Rosero, Mgs. </p> 
+      <p style="color:gray;">Coordinador: Ing. Holguin Cedeño Carlos, Mgs. </p> 
     </div>  
-<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/GodoyRoseroCesar.png' width='100%' height='100%' style='border-radius:50px;'></div>
+<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/HolguinCarlos.jpg' width='100%' height='100%' style='border-radius:50px;'></div>
 </div>
 </div>
 
@@ -89,7 +89,7 @@ include_once("head.php");
     <p style="font-size:20px; margin:10px 0 10px 0;">4.- Economía del siglo XXI: Economía circular y en colores. </p>
     <p style="color:gray;">Coordinador: Ing. Jorgeli Ayovi Caicedo, Mgs.</p> 
   </div>  
-<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/AyoviCaicedoJorgerly.png' width='100%' height='100%' style='border-radius:50px;'></div>
+<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/AyoviJorgerly.jpg' width='100%' height='100%' style='border-radius:50px;'></div>
 
 </div>
 
@@ -114,6 +114,7 @@ include_once("head.php");
       <p style="font-size: 20px; margin:10px 0 10px 0;">5.- Rol en escenarios actuales de la empresa pública y privada. </p>
       <p style="color:gray;">Coorinador: Ing. Luis Canchingre Bone, Mgs</p> 
     </div>  
+<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/CanchingreLuis.jpg' width='100%' height='100%' style='border-radius:50px;'></div>
 </div>
 </div>
 
@@ -130,6 +131,7 @@ include_once("head.php");
     <p style="font-size:20px; margin:10px o 10px 0;">6.-Movilidad y seguridad humana en el desarrollo económico. </p>
       <p style="color:gray;"> Coordinadora: Dr. Patricio Arce Minda, Mgs.</p> 
   </div>  
+<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/ArcePatricio.jpg' width='100%' height='100%' style='border-radius:50px;'></div>
 </div>
 
 <div  class="img-contenedor w3-card-4" style=" border:2px solid green;width: 40%; display:flex; justify-content: center;">
@@ -155,7 +157,7 @@ include_once("head.php");
       <p style="font-size: 20px; margin:10px 0 10px 0;">7.- Liderazgo, comunicación interna y Cultura Organizacional. </p>
       <p style="color:gray;"> Coordinadora: Ing. Romina Oyarvide Ibarra, Mgs.</p> 
     </div>  
-<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/OyarvideRomina.png' width='100%' height='100%' style='border-radius:50px;'></div>
+<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/OyarvideRomina.jpg' width='100%' height='100%' style='border-radius:50px;'></div>
 
 </div>
 </div>

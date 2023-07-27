@@ -46,7 +46,7 @@ Rector de la UTLVTE</p>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>ASESOR RELATOR ACADÉMICO</b></p>
   </header>
   <main>
-  <p><span class="nombre">Dr. Marco Raúl Quintero González, Mgs.</span></p> 
+  <p><span class="nombre">Ing. Marco Raúl Quinteros González, Mgs.</span></p> 
 
 </main>
 </div>
