@@ -38,7 +38,7 @@
               <a class="nav-link" href="congresoutlvte-tematicas.php">Temática</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="congresoutlvte-confe2.php#">Conferencistas</a>
+              <a class="nav-link" href="congresoutlvte-conferencistas.php#">Conferencistas</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="congresoutlvte-memoria.php#">Memoria</a>

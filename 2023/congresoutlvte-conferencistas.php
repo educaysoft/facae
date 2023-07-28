@@ -105,6 +105,16 @@ body{
         font-weight:400;
       }
     }
+
+.info-cargo{
+
+      border-bottom:1px solid rgba(0,0,0,.3); 
+      h4{
+        font-weight:400;
+      }
+}
+
+
     .info-follow{
       display: -webkit-box; 
       display: -moz-box;
@@ -186,16 +196,17 @@ body{
     background-image: url(https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&s=b0aa3fbba9c018e93499effa49dd8e83);
   }
   .profile-image{
-    background-image: url(https://images.unsplash.com/photo-1507120878965-54b2d3939100?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&s=57f3676a7820564424855d5e5c6b09e7);
+    background-image: url(images/conferencistas/LopezGermana.png);
   }
 }
 
 .card.huxi{
   .card-top{
-    background-image: url(https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&s=941970a7808025335c9f2848c488ba84);
+   /* background-image: url(https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&s=941970a7808025335c9f2848c488ba84); */
+    background-image: url(https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&s=b0aa3fbba9c018e93499effa49dd8e83);
   }
   .profile-image{
-    background-image: url(https://images.unsplash.com/photo-1495147334217-fcb3445babd5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&s=45215c86ec473819613890a3f937c80b);
+    background-image: url(images/conferencistas/CaicedoRosangela.png);
   }
 }
 
@@ -215,11 +226,7 @@ body{
 
 
 <div style=" display:flex;flex-direction: column; background-color: white;" >
-      <div class="col-lg-6 col-md-8 mx-auto">
-	<p>
-	 <center> <a href="congresoutlvte-normafinal1.php" class="btn btn-primary my-2">Normas para edición</a></center>
-        </p>
-	</div>
+      
 	<div style="width: 70%; margin:20px auto;">
 
 
@@ -232,6 +239,13 @@ body{
 
 
 <main class="cd-main-content" >
+<div class="row py-lg-5 text-center container">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">Conferencistas</h1>
+        <p class="lead text-muted">Nacionales e Intenacionales</p>
+      </div>
+    </div>
+
 <div class="container">
   <div class="display">
     <div class="display-item">
@@ -243,24 +257,13 @@ body{
         </div>
         <div class="card-info">
           <div class="info-title">
-            <h3>Tinder Trawler</h3>
+            <h3>Germán López Noreña</h3>
           </div>
-          <div class="info-follow">
-            <div class="follow-followers">
-              <span>173</span><br />
-              <span>Followers</span>
-            </div>
-            <div class="follow-following">
-              <span>17</span><br />
-              <span>Following</span>
-            </div>
-            <div class="follow-likes">
-              <span>1054</span><br />
-              <span>Likes</span>
-            </div>
+          <div class="info-cargo">
+            <h4>Director General Fundación Red para la Educación en Iberoamerica-FREI</h4>
           </div>
           <div class="info-bio">
-            Proin non rhoncus sapien. Cras tempus odio elit, eget hendrerit neque sollicitudin at. Suspendisse feugiat nunc quis venenatis volutpat. Cras finibus sit amet velit vel dignissim. Curabitur vehicula porttitor leo a tincidunt. 
+<b>TEMA:</b> "Lectura Crítica en lo Económico y Organizacional de la Educación Superior Latinoamericana en Perspectiva del logro del ODS4 (Agenda 2030 de la ONU)”  
           </div>
           <div class="info-social">
             <div class="social-icons">
@@ -271,10 +274,10 @@ body{
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </div>
               <div class="sm pint">
-                <i class="fa fa-pinterest" aria-hidden="true"></i>
+                <a href="https://www.youtube.com/watch?v=a3VWEktCZJI"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
               </div>
               <div class="sm px500">
-                <i class="fa fa-500px" aria-hidden="true"></i>
+                <a href="Documentos/LopezGermanCV.pdf"><i class="fa fa-file" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
@@ -290,24 +293,13 @@ body{
         </div>
         <div class="card-info">
           <div class="info-title">
-            <h3>Communications Architect</h3>
+            <h3>Caicedo Quiroz Rosangela</h3>
           </div>
-          <div class="info-follow">
-            <div class="follow-followers">
-              <span>274</span><br />
-              <span>Followers</span>
-            </div>
-            <div class="follow-following">
-              <span>56</span><br />
-              <span>Following</span>
-            </div>
-            <div class="follow-likes">              
-              <span>7532</span><br />
-              <span>Likes</span>
-            </div>
+          <div class="info-cargo">
+            <h4>Vicerectora de Investigación Vinculación  con la Sociedad Universidad Bolivariana del Ecuador.</h4>
           </div>
           <div class="info-bio">
-            Proin non rhoncus sapien. Cras tempus odio elit, eget hendrerit neque sollicitudin at. Suspendisse feugiat nunc quis venenatis volutpat. Cras finibus sit amet velit vel dignissim. Curabitur vehicula porttitor leo a tincidunt. 
+           <                        > . 
           </div>
           <div class="info-social">
             <div class="social-icons">
@@ -318,64 +310,18 @@ body{
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </div>
               <div class="sm pint">
-                <i class="fa fa-pinterest" aria-hidden="true"></i>
+                <a href="https://www.youtube.com/watch?v=ZF8aoDW9e5o"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+
               </div>
               <div class="sm px500">
-                <i class="fa fa-500px" aria-hidden="true"></i>
+                <a href="Documentos/CaicedoRosangelaCV.pdf"><i class="fa fa-file" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="display-item">
-      <div class="card anabelle">
-        <div class="card-top"></div>
-        <div class="card-profile">
-          <div class="profile-image">
-          </div>
-        </div>
-        <div class="card-info">
-          <div class="info-title">
-            <h2>Anabelle Saunders</h2>
-            <h3>Paradigm Coordinator</h3>
-          </div>
-          <div class="info-follow">
-            <div class="follow-followers">
-              <span>72</span><br />
-              <span>Followers</span>
-            </div>
-            <div class="follow-following">
-              <span>12</span><br />
-              <span>Following</span>
-            </div>
-            <div class="follow-likes">
-              <span>958</span><br />
-              <span>Likes</span>
-            </div>
-          </div>
-          <div class="info-bio">
-            Proin non rhoncus sapien. Cras tempus odio elit, eget hendrerit neque sollicitudin at. Suspendisse feugiat nunc quis venenatis volutpat. Cras finibus sit amet velit vel dignissim. Curabitur vehicula porttitor leo a tincidunt. 
-          </div>
-          <div class="info-social">
-            <div class="social-icons">
-              <div class="sm twitter">
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-              </div>
-              <div class="sm facebook">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-              </div>
-              <div class="sm pint">
-                <i class="fa fa-pinterest" aria-hidden="true"></i>
-              </div>
-              <div class="sm px500">
-                <i class="fa fa-500px" aria-hidden="true"></i>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    
   </div>
 </div>
 
