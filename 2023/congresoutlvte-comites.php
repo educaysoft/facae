@@ -8,20 +8,20 @@
   </header>
   <main>
 
-  <p><span class="nombre">Dr. Girald David Vernaza Arroyo. PhD.</span><br> 
+  <p><span class="nombre">Dr. Sc. Girald David Vernaza Arroyo. PhD.</span><br> 
 <i style="color: blue">PRESIDENTE DEL CONGRESO</i><br>  
 Rector de la UTLVTE</p>
 
-  <p><span class="nombre">Dr. Manuel Quiñonez Cabeza. PhD.</span><br> 
+  <p><span class="nombre">Ing. Manuel Quiñonez Cabeza. PhD.</span><br> 
 <i style="color: blue">PRIMER VICE-PRESIDENTE</i><br>  
   Vicerrector de Investigación y Postgrado</p>
   
 
-<p> <span class="nombre">Dr. Elizabeth Canchingre Bone. PhD.</span><br> 
+<p> <span class="nombre">Ing. Elizabeth Canchingre Bone. PhD.</span><br> 
 <i style="color: blue">SEGUNDA VICE-PRESIDENTA</i><br>  
   Vicerrectora Académica de la UTLVTE<br>
 
-  <p><span class="nombre">Dr. Mariuxi Guijarro Cagua, PhD.</span><br> 
+  <p><span class="nombre">Ing. Mariuxi Guijarro Cagua, PhD.</span><br> 
 <i style="color: blue">COORDINADORA GENERAL</i><br>  
   Decana de la FACAE-UTLVTE</p>
 
@@ -34,7 +34,7 @@ Rector de la UTLVTE</p>
   </header>
   <main>
 
-  <p><span class="nombre">Dr. Mariuxi Guijarro Cagua, PhD.</span><br> 
+  <p><span class="nombre">Ing. Mariuxi Guijarro Cagua, PhD.</span><br> 
   <span class="nombre">Ing. Jorge Enrrique Salazar Sánchez, MBA.</span></p> 
 
 
@@ -85,7 +85,7 @@ Rector de la UTLVTE</p>
   
 
    <p  class="badge bg-primary text-wrap" >Miembros</p>
- <p class="nombre">  Dr. Yorbet Montes de Oca Rojas, PhD.<br><span class="text-primary">(Universidad de Zulia, Venezuela)</span></p>
+ <p class="nombre">  Dra. Yorbet Montes de Oca Rojas, PhD.<br><span class="text-primary">(Universidad de Zulia, Venezuela)</span></p>
   <p class="nombre">  Dr. Rosario León Robaina, PhD.<br><span class="text-primary">(Universidad del Oriente, Santiago de Cuba)</span></p>
    <p class="nombre"> Dr. Graciela María Castellanos Pallerois, PhD.<br><span class="text-primary">(Universida del Oriente, Santiago de Cuba)</span></p>
   <p class="nombre">Dr. Yahilina Silveira Perez, PhD.<br><span class="text-primary">(Universidad de Sucre, Colombia)</span></p>
@@ -97,16 +97,16 @@ Rector de la UTLVTE</p>
   <p class="nombre">Dr. Frank Ángel Lemoine Quintero, PhD.<br><span class="text-primary">(Universidad Laica Eloy Alfaro de Manabí, Extensión Bahía, Nacionalidad Cubana)</span></p>
 
 
-  <p class="nombre">Dr. Alfonso Murgueitio Montenegro, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
+  <p class="nombre">Ing. Alfonso Murgueitio Montenegro, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 
-  <p class="nombre">Dr. Elizabeth Jackeline Govea Robinsón, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
+  <p class="nombre">Ing. Elizabeth Jackeline Govea Robinsón, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 
-  <p class="nombre">Dr. Olga jackeline Quiñonez Guagua, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
+  <p class="nombre">Ing. Olga jackeline Quiñonez Guagua, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 
 
-  <p class="nombre">Dr. Harold Paúl Oyarvide Ramiréz, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
+  <p class="nombre">Ing. Harold Paúl Oyarvide Ramiréz, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 
-  <p class="nombre">Dr. Félix Segundo Rosales Cortes, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
+  <p class="nombre">Abg. Félix Segundo Rosales Cortes, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 
 
   </main>
@@ -137,7 +137,7 @@ Rector de la UTLVTE</p>
 (UTLVTE)</p>
 
 
-  <p><span class="nombre">Ing. Carlos Andrés Holguin Cedeño, Mgtr.</span><br>
+  <p><span class="nombre">Lic. Carlos Andrés Holguin Cedeño, Mgtr.</span><br>
 (UTLVTE)</p>
 
   <p><span class="nombre">Ing. María Fernanda Caicedo Nazareno, Mgtr.</span><br>
@@ -214,10 +214,10 @@ Mundial</p>
 <i style="color: blue">(Responsabilidad social y empresarial.)</i></p>
 
 
-<p> <span class="nombre">Dr. Olga Jackeline Quiñonez Guagua, PhD.</span><br> 
+<p> <span class="nombre">Ing. Olga Jackeline Quiñonez Guagua, PhD.</span><br> 
 <i style="color: blue">(Calidad de la Gestión Innovadora y disruptiva de los negocios.)</i></p>
 
-<p> <span class="nombre">Ing. Carlos Andrés Holguin Cedeño, Msg.</span><br> 
+<p> <span class="nombre">Lic. Carlos Andrés Holguin Cedeño, Msg.</span><br> 
 <i style="color: blue">(Tecnologías y su relación con el crecimiento y el desarrollo económico.)</i></p>
 
 
@@ -227,6 +227,11 @@ Mundial</p>
 
 <p> <span class="nombre">Ing. Luis Aldimir Canchingre Bone, Mgtr.</span><br> 
 <i style="color: blue">(Rol de los escenarios actuales de la empresa pública y privada.)</i></p>
+
+
+<p> <span class="nombre">Ing. Patricio Marcelo Arce Minda, Mgtr.</span><br> 
+<i style="color: blue">(Movilidad y seguridad humana en el desarrollo económico.)</i></p>
+
 
 <p> <span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgtr.</span><br> 
 <i style="color: blue">(Liderazgo, comunicación interna y cultura organizacional.)</i></p>
@@ -256,7 +261,7 @@ Mundial</p>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN ACADÉMICA</b></p>
   </header>
   <main>
-<p> <span class="nombre">Dr. Féliz Segundo Rosales Cortes, PhD.</span><br> 
+<p> <span class="nombre">Abg. Félix Segundo Rosales Cortes, PhD.</span><br> 
 <i style="color: blue">COORDINADOR ACADÉMICO</i></p>  
 <p><span class="nombre">Dr. Julio Alfonso Murgueitto Montenegro. PhD.</span></br> 
 <span class="nombre">Dr. Pablo Domingo Vilela Mera, PhD.</span></br> 
@@ -310,7 +315,7 @@ Mundial</p>
   <main>
 
   <span class="nombre">Ing. Stalin Francis Quinde, MsC.</span><br> 
-  <span class="nombre">Ing. Carlos Holguín Cedeño, Mgtr.</span><br> 
+  <span class="nombre">Lic. Carlos Holguín Cedeño, Mgtr.</span><br> 
    
 
   </main>
