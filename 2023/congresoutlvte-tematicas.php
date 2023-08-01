@@ -46,7 +46,7 @@ include_once("head.php");
 
   <div style=" margin: auto;text-align: center;">
     <p style="font-size:20px; margin:10px 10px 10px 0px;">2.-Calidad de la Gestión Innovadora y descriptiva de los negocios. </p>
-    <p style="color:gray;">Coordinadora: Dra. Olga Quiñonez Cagua, PhD.</p> 
+    <p style="color:gray;">Coordinadora: Ing. Olga Quiñonez Cagua, PhD.</p> 
 
   </div>  
 <div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/QuinonezOlga.jpg' width='100%' height='100%' style='border-radius:50px;'></div>
