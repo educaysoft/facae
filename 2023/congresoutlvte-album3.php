@@ -141,7 +141,22 @@ body {
         </div>
 
 
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="images/coloquio.jpg">
 
+            <div class="card-body">
+              <p class="card-text"><strong>Logo de III Coloquio Estudiantil</strong>  <br>"Jovenes Investigadores"</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                   <button  onclick="location.href='https://congresoutlvte.org/Documentos/coloquio.pdf'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">PROYECTO</button>
+                  <button disabled onclick="location.href='https://www.youtube.com/watch?v=ZZwuf-1MIrM'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+ 
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
 
 
