@@ -149,7 +149,7 @@ body {
               <p class="card-text"><strong>Logo de nuestro coloquio </strong>  <br>III Coloquio Estudiantil "Jovenes Investigadores"</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                   <button  onclick="location.href='https://congresoutlvte.org/Documentos/coloquio.pdf'"   type="button" class="btn btn-sm btn-outline-secondary">PROYECTO</button>
+                   <button  onclick="location.href='Documentos/coloquio.pdf'"   type="button" class="btn btn-sm btn-outline-secondary">PROYECTO</button>
                   <button  onclick="location.href='https://www.youtube.com/watch?v=ZZwuf-1MIrM'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
  
                 </div>
