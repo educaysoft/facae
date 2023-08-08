@@ -129,7 +129,7 @@ body {
             <img src="images/PlazaCastilloAlfredo.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Plaza Castillo  Alfredo</strong>  <br>Director del III Coloquio Estudiantil "Jóvenes Investigadores"</p>
+              <p class="card-text"><strong>Plaza Castillo  Alfredo - Director</strong>  <br>III Coloquio Estudiantil "Jóvenes Investigadores"</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
@@ -146,11 +146,11 @@ body {
             <img src="images/coloquio.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Logo de III Coloquio Estudiantil</strong>  <br>"Jovenes Investigadores"</p>
+              <p class="card-text"><strong>Logo de nuestro coloquio </strong>  <br>III Coloquio Estudiantil "Jovenes Investigadores"</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                   <button  onclick="location.href='https://congresoutlvte.org/Documentos/coloquio.pdf'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">PROYECTO</button>
-                  <button disabled onclick="location.href='https://www.youtube.com/watch?v=ZZwuf-1MIrM'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                   <button  onclick="location.href='https://congresoutlvte.org/Documentos/coloquio.pdf'"   type="button" class="btn btn-sm btn-outline-secondary">PROYECTO</button>
+                  <button  onclick="location.href='https://www.youtube.com/watch?v=ZZwuf-1MIrM'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
  
                 </div>
               </div>
