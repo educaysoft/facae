@@ -37,13 +37,13 @@ include_once("head.php");
 
 
 <main class="cd-main-content" >
-<p style="text-align:center; font-weight: bold; font-size: 2vw;">ESTRUCTURA DE LOS TRABAJO<p><br>
-<p style="font-size: 1.5vw; line-height:150% ">Artículo en extenso(para ponencia oral). Deben ser presentados en hoja tipo carta con márgenes de 2.5 cm en cada lado, tipo de letra Arial 12, interlineado de 1.5 puntos y con una extensión mínima de 15 páginas siguiendo la estructura.</p>
+<p style="text-align:center; font-weight: bold; font-size: 2vw;">ESTRUCTURA DE LOS TRABAJOS<p><br>
+<p style="font-size: 1.5vw; line-height:150% ">Artículo en extenso (para ponencia oral). Deben ser presentados en hoja tipo carta con márgenes de 2.5 cm en cada lado, tipo de letra Arial 12, interlineado de 1.5 puntos y con una extensión mínima de 15 páginas siguiendo la estructura.</p>
 
 <ul class="ul" style="list-style-type: none; padding:2px; text-align: justify; font-size: 1.5vw; "> 
 <li> Título en español.</li>
 
-<li> Datos de los autores (indicando además último grado académico, institución de filiación, país, código ORCID, correo electrónico) .</li>
+<li> Datos de los autores (indicando además último grado académico, institución de filiación, país, código ORCID, correo electrónico).</li>
 
  <li>  Resumen en españól (máximo 250 palabras).</li>
 
@@ -67,9 +67,9 @@ include_once("head.php");
 <li><b>Introducción:</b> Incluira problema de investigación, objetivo, y aporte al objeto de estudio.</li>
 <li><b>Referencia teórica:</b> Discusión de diversos autores de las variables de estudio.</li>
 <li><b>Metodología:</b> Presentar el tipo de investigación, la muestra del estudio, las técnicas e instrumentos, relatar como se establece ese proceso.</li>
-<li><b>Resultados:</b>constituida por secciones y/o subsecciones, identificadas con números arábigos, de acuerdo al sistema decimal, comenzando con el número 1 para la introducción y el último número para las conclusiones.</li>
-<li><b>Conclusiones:</b>Se redacta las conclusiones sin enumerarlas deben ser escritas mediante técnicas de argumentación científica.</li>
-<li><b>Referencias:</b>Deben  incluirse solo materiales citados, incluyendo todos, los datos relevantes.</li>
+<li><b>Resultados:</b> Constituida por secciones y/o subsecciones, identificadas con números arábigos, de acuerdo al sistema decimal, comenzando con el número 1 para la introducción y el último número para las conclusiones.</li>
+<li><b>Conclusiones:</b> Se redacta las conclusiones sin enumerarlas deben ser escritas mediante técnicas de argumentación científica.</li>
+<li><b>Referencias:</b> Deben  incluirse solo materiales citados, incluyendo todos, los datos relevantes.</li>
 
 </ul>
 
@@ -78,13 +78,13 @@ include_once("head.php");
 <p style="font-size: 1.5vw; line-height:150% "><b>Resumen (para póster).</b> Deben ser presentados en hoja tipo, carta con márgenes de 2.5 cm en cada lado, tipo de letra Arial 12 e interlineado de 1.5 puntos siguiendo la estrutura:</p>
 
 <ul class="ul" style="padding:2px; text-align: justify; font-size: 1.5vw; "> 
-<li>Título en español</li>
+<li>Título en español.</li>
 <li>Datos de los autores( indicando además último grado académico, institución de filiación, país, código ORCID, correo electrónico). </li>
 <li> Resumen en español (máximo 250 palabras especificando objetivo, metodología, autores de referencia, principales resultados y concluiones).</li>
-<li> Palabras clave en español (entre 3 y 5)</li>
-<li> Título en ingles</li>
-<li> Resumen en inglés</li>
-<li> Palabras clave en ingles</li>
+<li> Palabras clave en español (entre 3 y 5).</li>
+<li> Título en ingles.</li>
+<li> Resumen en inglés.</li>
+<li> Palabras clave en ingles.</li>
 
 </ul>
 
@@ -94,10 +94,10 @@ include_once("head.php");
 <ul class="ul" style="padding:2px; text-align: justify; font-size: 1.5vw; "> 
 <li>La ponencia y conferencia deben ser un trabajo inédito, original, relevante y desarrollado con rigor académico, producto de una investigación científica.</li>
 <li>El número máximo de autores en una ponencia es de cuatro(4).</li>
-<li>El documento qu se envíe deberá ser la versión definitiva.</li>
+<li>El documento que se envíe deberá ser la versión definitiva.</li>
 <li>Las tablas, figuras, diagramas, fotos, esquemas e ilustraciones en general, además de estar referidas en el contenido, deberán identificarse con números arábigos y en forma consecutiva en texto.</li>
 <li>Los título de las tablas  se colocan en la parte superior de las mismas y los de gráficos, figuras y fotos se colocan en la parte inferior.</li>
-<li>Asimismo, su número no debe excederse de 5 ej: Tabla 1, Figura 1, Gráfico 1, (no usar la abreviatura No). Así mismo, debe indicarse al final del título, la fuente bibliográfica de las mismas, salvo en aquellos casos que sean de autoría propia</li>
+<li>Asimismo, su número no debe excederse de 5 ej: Tabla 1, Figura 1, Gráfico 1, (no usar la abreviatura No). Así mismo, debe indicarse al final del título, la fuente bibliográfica de las mismas, salvo en aquellos casos que sean de autoría propia.</li>
 <li> Asegurar que el tipo de letra y el tamaño siempre sean uniformes.</li>
 </ul>
 <p style="font-size: 1.5vw; line-height:150% "><b>PRODUCTOS:</b></p>
