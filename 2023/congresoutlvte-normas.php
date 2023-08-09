@@ -21,12 +21,12 @@ include_once("head.php");
 <p style="text-align:justify; font-size: 1.5vw; margin:10px 0 10px 0;">La presidencia del Comité Académico, tendrá la responsabilidad de revisar, evaluar y seleccionar los trabajos que serán presentados en el IV Congreso Intenacional de Ciencias Administrativas y Económicas.</p>
 
 <p style="text-align:justify; font-size:  1.5vw;margin:10px 0 10px 0" > No se evaluarán los trabajos que incumplan las normas, ni que hayan sido publicados en otros eventos.</p>
-<p style="text-align:justify; font-size:  1.5vw;margin:10px 0 10px 0" > Una vez aceptados, los autores enviarán, a uno de los correos siguientes: <b>facae@utelvt.edu.ec</b>.</p>
+<p style="text-align:justify; font-size:  1.5vw;margin:10px 0 10px 0" > Una vez aceptados, los autores enviarán, a uno de los correos siguientes: <b>congreso.internacional@utelvt.edu.ec</b>.</p>
 <!---
 <p style="text-align: justify; font-size: 1.5vw; margin:5px 0 5px 0;"> Una presentación de power point cuya plantilla puede descargar en este <a href="https://docs.google.com/presentation/d/16iDWJNBvMasfKkjomTWMnbvfgnQa9gDn/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true"> link</a>.</p> 
 --->
 <p style="text-align: justify; font-size: 1.5vw; margin:5px 0 5px 0;"> Un video en formato mp4, con un máximo de 25 MB y 3 minutos de duración, donde el ponente exponga sus principales resultados y la problemática que resuelve.</p>
-<p><b>Idiomas oficiales :</b>  Español, Ingles, Portugués</p>
+<p style="text-align: justify; font-size: 1.5vw; margin:5px 0 5px 0;" ><b>Idiomas oficiales :</b>  Español, Ingles, Portugués</p>
 
 </div>
 
@@ -92,12 +92,12 @@ include_once("head.php");
 <p style="font-size: 1.5vw; line-height:150% ">Esta normas siguen los lineamientos exigidos en normas internacionales, y son las siguientes:</p>
 
 <ul class="ul" style="padding:2px; text-align: justify; font-size: 1.5vw; "> 
-<li>La ponencia y conferencia deben ser un trabajo inédito, original, relevante y desarrollado con rigor académico, producto de una investigación científica</li>
-<li>El número máximo de autores en una ponencia es de cuatro(4)</li>
-<li>El documento qu se envíe deberá ser la versión definitiva</li>
+<li>La ponencia y conferencia deben ser un trabajo inédito, original, relevante y desarrollado con rigor académico, producto de una investigación científica.</li>
+<li>El número máximo de autores en una ponencia es de cuatro(4).</li>
+<li>El documento qu se envíe deberá ser la versión definitiva.</li>
 <li>Las tablas, figuras, diagramas, fotos, esquemas e ilustraciones en general, además de estar referidas en el contenido, deberán identificarse con números arábigos y en forma consecutiva en texto.</li>
-<li>Los título de las tablas  se colocan en la parte superior de las mismas y los de gráficos, figuras y fotos se colocan en la parte inferior</li>
-<li>Asimismo, su número nho debe excederse de 5 ej: Tabla 1, Figura 1, Gráfico 1, (no usar la abreviatura No). Asimismo, debe indicarse al final del título, la fuente bibliográfica de las mismas, salvo en aquellos casos que sean de autoría propia</li>
+<li>Los título de las tablas  se colocan en la parte superior de las mismas y los de gráficos, figuras y fotos se colocan en la parte inferior.</li>
+<li>Asimismo, su número no debe excederse de 5 ej: Tabla 1, Figura 1, Gráfico 1, (no usar la abreviatura No). Así mismo, debe indicarse al final del título, la fuente bibliográfica de las mismas, salvo en aquellos casos que sean de autoría propia</li>
 <li> Asegurar que el tipo de letra y el tamaño siempre sean uniformes.</li>
 </ul>
 <p style="font-size: 1.5vw; line-height:150% "><b>PRODUCTOS:</b></p>
@@ -106,7 +106,7 @@ include_once("head.php");
 <li> Certificado digital de asistencia y/o ponencia.</li>
 <li> Publicación de los vídeos de las ponencias en el repositorio institucional certificados como contenido multimedia.</li>
 <li> Publicación de resúmenes y artículos en extenso como capítulos de libro arbitrado "Avances en investigación científica".</li>
-<li> Los quince (15) trabajos mejor valorados, de acuerdo al área temática, serán seleccionados para su publicación como artículos en revistas de alto impacto.</li>
+<li> Los trabajos mejor valorados, de acuerdo al área temática, serán seleccionados para su publicación como artículos en revistas de alto impacto.</li>
 </ol>
 
 
