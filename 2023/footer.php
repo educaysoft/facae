@@ -12,8 +12,8 @@
 
 <div style=" padding:0.5vw; position: relative ;width:10%;">
    <div style="position:absolute; bottom: 0;width: 100%;">    
-      <img src="images/peru.png"  width="100%">
-      <center><p>Perú</p></center>
+      <img src="images/BanderaCamerun.png"  width="100%">
+      <center><p>Camerún</p></center>
     </div>
     </div>
 
