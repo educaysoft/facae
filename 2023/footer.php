@@ -36,8 +36,8 @@
 <div style=" padding:0.5vw; position: relative ; width:10%;">
    <div style="position:absolute; bottom: 0;width: 100%;">    
 
-      <img src="images/honduras.png" width="100%" >
-      <center><p>Honduras</p></center>
+      <img src="images/BanderaColombia.png" width="100%" >
+      <center><p>Colombia</p></center>
     </div>
     </div>
 
@@ -64,12 +64,7 @@
 
    
 
-   <div style=" padding:0.5vw; position: relative ;width:10%;">
-   <div style="position:absolute; bottom: 0;width: 100%;">    
-      <img src="images/espana.png" width ="100%">
-      <center><p>España</p></center>
-    </div>
-    </div>
+   
 
 </div>
 </div>
