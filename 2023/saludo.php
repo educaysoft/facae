@@ -13,7 +13,7 @@
 
  <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Saludo e invitación de autoridades y estudiantes </h1>
+        <h1 class="fw-light">Saludos de bienvenida  por parte de autoridades, estudiantes e invitados especiales </h1>
       </div>
     </div>
 
@@ -26,14 +26,14 @@
 <div id="fsaludo" style="border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; display: flex; flex-direction:column ; ">
 
 <div  style="color:white; padding: 10px;">
-               <center> PRIMER CONGRESO INTERNACIONAL MIRADAS Y TENDENCIAS DE LAS CIENCIAS INGENIERILES (MTCI) - UTLVTE 2022.</center>
+               <center> IV CONGRESO INTERNACIONAL DE CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS  - FACAE-UTLVTE 2023.</center>
             </div>
 
 
 <div   style="margin-left:10px; margin-top:10px;  padding: 10px; height: 400px;">
 
 <center>
-<iframe id="vsaludos" height="360px" width="640px" src="https://www.youtube.com/embed/r3trVoff99U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="vsaludos" height="360px" width="640px" src="https://www.youtube.com/embed/_nckQT_n4-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -45,15 +45,8 @@
     <div>      
         <!--thumbnails-->
         <div id="thumbs">
-            <div class="thumb"><img src="saludos/VernazaGiraldSaludos.jpg" onclick="video0()"  /></div>
-            <div class="thumb"><img src="saludos/Vicerrectora.jpg" onclick="video1()"  /></div>
-            <div class="thumb"><img src="saludos/BasterLySaludos.jpg" onclick="video3()"  /></div>
-            <div class="thumb"><img src="saludos/CuelloMaribelSaludos.jpg"  onclick="video4()" /></div>
-            <div class="thumb"><img src="saludos/VlucherQuinteroSaludos.jpg" onclick="video5()" /></div>
-            <div class="thumb"><img src="saludos/MinaNayzerSaludos.jpg"  onclick="video6()" /></div>
-            <div class="thumb"><img src="saludos/AbataDiegoSaludos.jpg"  onclick="video7()" /></div>
-            <div class="thumb"><img src="saludos/CajasCarolinaSaludos.jpg"  onclick="video8()" /></div>
-            <div class="thumb"><img src="saludos/MarquezCarlosSaludos.jpg"  onclick="video9()" /></div>
+            <div class="thumb"><img src="images/saludos/Vicerrectora.jpg" onclick="video1()"  /></div>
+            <div class="thumb"><img src="images/saludos/LuisRenginfo.jpg" onclick="video3()"  /></div>
    <!----
             <div class="thumb"><img src="saludos/saludo5.png"  onclick="video5()" /></div>
             <div class="thumb"><img src="saludos/saludo6.png" onclick="video6()" /></div>
@@ -87,16 +80,16 @@
 <script type="text/javascript">
 function image() {
        var elsaludo = document.getElementById("vsaludos");
-        elsaludo.src="https://www.youtube.com/embed/V3y9KC0yozo";
+        elsaludo.src="https://www.youtube.com/embed/_nckQT_n4-8";
 }
 function video3() {
        var elsaludo = document.getElementById("vsaludos");
-        elsaludo.src="https://www.youtube.com/embed/On4HOlDm3MQ";
+        elsaludo.src="https://www.youtube.com/embed/9dN5JzKwxos"
 }
 
 function video1() {
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src=" <iframe width="560" height="315" src="https://www.youtube.com/embed/_nckQT_n4-8";
+    elsaludo.src="https://www.youtube.com/embed/_nckQT_n4-8";
 }
 
 
