@@ -50,12 +50,7 @@
     </div>
 
 
-   <div style=" padding:0.5vw; position: relative ;width:10%; bottom:0;">
-   <div style="position:absolute; bottom: 0;height: 100%; display:flex; flex-direction: column ; justify-content: end;">    
-      <img src="images/argentina.png" height ="100%">
-      <center><p>Argentina</p></center>
-    </div>
-    </div>
+   
 
  
 

@@ -255,7 +255,7 @@ include_once("congresoutlvte-objetivo.php");
 
 
 <?php
-//include_once("saludo.php");
+include_once("saludo.php");
 ?>
 
 <?php

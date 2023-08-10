@@ -46,7 +46,7 @@
         <!--thumbnails-->
         <div id="thumbs">
             <div class="thumb"><img src="saludos/VernazaGiraldSaludos.jpg" onclick="video0()"  /></div>
-            <div class="thumb"><img src="saludos/CanchingreElizabethSaludos.jpg" onclick="video1()"  /></div>
+            <div class="thumb"><img src="saludos/Vicerrectora.jpg" onclick="video1()"  /></div>
             <div class="thumb"><img src="saludos/BasterLySaludos.jpg" onclick="video3()"  /></div>
             <div class="thumb"><img src="saludos/CuelloMaribelSaludos.jpg"  onclick="video4()" /></div>
             <div class="thumb"><img src="saludos/VlucherQuinteroSaludos.jpg" onclick="video5()" /></div>
@@ -96,7 +96,7 @@ function video3() {
 
 function video1() {
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src=" https://www.youtube.com/embed/-Z-hiWdM5TY";
+    elsaludo.src=" <iframe width="560" height="315" src="https://www.youtube.com/embed/_nckQT_n4-8";
 }
 
 
