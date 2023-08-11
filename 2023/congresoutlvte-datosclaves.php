@@ -100,7 +100,7 @@
         <div>
           <h4 class="fw-bold mb-0">Inscripción público en general</h4>
           <p>Hasta el 03 de septiembre del 2023. <br>
-<a  href="https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link">Inscribete ya </a></p>
+<a  href="https://docs.google.com/forms/d/e/1FAIpQLSfs_lEPqL6olDpVWh7Dwfbpfhxypkv9_4uRixUaG9pY00JfKA/viewform?usp=sf_link">Inscribete ya </a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
