@@ -11,7 +11,8 @@
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light">Invitados especiales</h1>
-        <p class="lead text-muted"></p>
+        <p class="lead text-muted"><a href='https://congresoutlvte.org/facae/2023/congresoutlvte-conferencistas.php#'>Todos los conferencistas...</a> </p>
+
       </div>
     </div>
 
