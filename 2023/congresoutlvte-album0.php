@@ -55,7 +55,7 @@
             <img src="images/conferencistas/CaicedoRosangela.png">
 
             <div class="card-body">
-              <p class="card-text"><strong>Caicedo Quiroz Rosangela</strong> <br> Vicerrectora fr Investigación y Vinculación con la sociedad - Universidad Boliviana - Ecuador.</p>
+              <p class="card-text"><strong>Caicedo Quiroz Rosangela</strong> <br> Vicerrectora de Investigación y Vinculación con la sociedad - Universidad Boliviana - Ecuador.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button onclick="location.href='https://drive.google.com/file/d/1uPoHjQxpr9rgwENy6ovfMY9RQJvNokSI/view'"  type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
