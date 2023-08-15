@@ -39,7 +39,7 @@
             <img src="images/QuinonezOlga.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Quiñonez Cagua Olga</strong>  <br>2.-Calidad de la Gestión Innovadora y desruptiva de los negocios&nbsp</p>
+              <p class="card-text"><strong>Quiñonez Guagua Olga</strong>  <br>2.-Calidad de la Gestión Innovadora y desruptiva de los negocios&nbsp</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'" disabled    type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>

@@ -202,7 +202,6 @@ body{
 
 .card.huxi{
   .card-top{
-   /* background-image: url(https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&s=941970a7808025335c9f2848c488ba84); */
     background-image: url(https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&s=b0aa3fbba9c018e93499effa49dd8e83);
   }
   .profile-image{
@@ -218,6 +217,21 @@ body{
     background-image: url(https://images.unsplash.com/photo-1498529605908-f357a9af7bf5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&s=4a38e7f0743e48e6ae32b23d36aa6ff7);
   }
 }
+
+
+.card.colombia{
+  .card-top{
+    background-image: url(images/banderas/Colombia.jpeg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=473657e1e7f4863f6e8a3348176a22dc);
+  }
+  .profile-image{
+    background-image: url(images/conferencistas/HooverRuiz2.jpg);
+  }
+}
+
+
+
+
+
 
 
 
@@ -257,7 +271,7 @@ body{
         </div>
         <div class="card-info">
           <div class="info-title">
-            <h3>Germán López Noreña</h3>
+            <h3>Germán López Noreñai, PhD.</h3>
           </div>
           <div class="info-cargo">
             <h4>Director General Fundación Red para la Educación en Iberoamerica-FREI</h4>
@@ -284,7 +298,9 @@ body{
         </div>
       </div>
     </div>
-    <div class="display-item">
+ 
+
+   <div class="display-item">
       <div class="card huxi">
         <div class="card-top"></div>
         <div class="card-profile">
@@ -293,7 +309,7 @@ body{
         </div>
         <div class="card-info">
           <div class="info-title">
-            <h3>Caicedo Quiroz Rosangela</h3>
+            <h3>Caicedo Quiroz Rosangela, PhD.</h3>
           </div>
           <div class="info-cargo">
             <h4>Vicerectora de Investigación Vinculación  con la Sociedad Universidad Bolivariana del Ecuador.</h4>
@@ -321,7 +337,50 @@ body{
         </div>
       </div>
     </div>
-    
+
+<div class="display-item">
+      <div class="card colombia">
+        <div class="card-top"></div>
+        <div class="card-profile">
+          <div class="profile-image">
+          </div>
+        </div>
+        <div class="card-info">
+          <div class="info-title">
+            <h3>Hoover Wadith Ruiz Rengifo, PhD.</h3>
+          </div>
+          <div class="info-cargo">
+            <h4>Chief Ethics Officer. CEO de la Asociación colombiana de Derecho penal empresarial ASCOLDPEM. Ejecutivo Tech Penal Nodo Colombia.</h4>
+          </div>
+<div class="info-bio">
+<b>TEMA:</b> "La responsabilidad penal de las personas jurídicas”  
+          </div>
+          
+          <div class="info-social">
+            <div class="social-icons">
+              <div class="sm twitter">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+              </div>
+              <div class="sm facebook">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+              </div>
+              <div class="sm pint">
+                <a href="https://www.youtube.com/watch?v=ZF8aoDW9e5o"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+
+              </div>
+              <div class="sm px500">
+                <a href="Documentos/CaicedoRosangelaCV.pdf"><i class="fa fa-file" aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
   </div>
 </div>
 

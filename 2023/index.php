@@ -259,6 +259,12 @@ include_once("saludo.php");
 ?>
 
 <?php
+include_once("congresoutlvte-album0.php");
+?>
+
+
+
+<?php
 include_once("congresoutlvte-ejestematicos.php");
 ?>
 
