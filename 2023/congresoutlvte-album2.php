@@ -71,7 +71,7 @@
             <img src="images/AyoviJorgerly.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Ayovi Caicedo Jorgerly</strong> <br>4.-Economía del siglo XXI: Economía circular y en colores.</p>
+              <p class="card-text"><strong>Ayovi Caicedo Jorgeli</strong> <br>4.-Economía del siglo XXI: Economía circular y en colores.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button onclick="location.href='https://drive.google.com/file/d/1uPoHjQxpr9rgwENy6ovfMY9RQJvNokSI/view'" disabled  type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
