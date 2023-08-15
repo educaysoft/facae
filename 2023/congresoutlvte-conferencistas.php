@@ -365,11 +365,11 @@ body{
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </div>
               <div class="sm pint">
-                <a href="https://www.youtube.com/watch?v=ZF8aoDW9e5o"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                <a href="https://www.youtube.com/watch?v=Re0RnyhdOnU"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
 
               </div>
               <div class="sm px500">
-                <a href="Documentos/CaicedoRosangelaCV.pdf"><i class="fa fa-file" aria-hidden="true"></i></a>
+                <a href="https://ceadigilaw.org/staff/hoover-wadith-ruiz-renjifo/"><i class="fa fa-file" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
