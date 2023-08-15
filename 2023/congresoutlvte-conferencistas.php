@@ -350,9 +350,9 @@ body{
             <h3>Hoover Wadith Ruiz Rengifo, PhD.</h3>
           </div>
           <div class="info-cargo">
-            <h4>Chief Ethics Officer. CEO de la Asociación colombiana de Derecho penal empresarial ASCOLDPEM. Ejecutivo Tech Penal Nodo Colombia.</h4>
+            <h4>Autor de varias obras de derecho penal y Codirector del Anuario Corporate Compliance.</h4>
           </div>
-<div class="info-bio">
+<div class="info-bio" style="font-size:20px">
 <b>TEMA:</b> "La responsabilidad penal de las personas jurídicas”  
           </div>
           

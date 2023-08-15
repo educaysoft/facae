@@ -37,7 +37,7 @@
             <img src="images/conferencistas/HooverRuiz.jpg">
 
             <div class="card-body">
-              <p class="card-text"><b>Ruiz Rengifo Hoover</b><br>Chief Ethics Officer. CEO de la Asociación colombiana de Derecho penal empresarial ASCOLDPEM. Ejecutivo Tech Penal Nodo Colombia.</p>
+              <p class="card-text"><b>Ruiz Rengifo Hoover</b><br>Autor de varias obras de derecho penal y Codirector del Anuario Corporate Compliance.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button onclick="location.href='https://ceadigilaw.org/staff/hoover-wadith-ruiz-renjifo/'"    type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
