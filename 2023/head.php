@@ -8,6 +8,10 @@
 <nav class="navbar bg-light" aria-label="Light offcanvas navbar" style="z-index:7; ">
     <div class="container-xxl">
 <a class="navbar-brand" href="https://www.utelvt.edu.ec/site/" target="_blank">
+<img src="https://congresoutlvte.org/images/logocongreso.png" alt="..." height="45">
+
+    </a>
+<a class="navbar-brand" href="https://www.utelvt.edu.ec/site/" target="_blank">
       <img src="https://congresoutlvte.org/images/logoutlvte.png" alt="..." height="45">
     </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbarLight" aria-controls="offcanvasNavbarLight">
