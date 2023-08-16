@@ -33,7 +33,11 @@
 <div   style="margin-left:10px; margin-top:10px;  padding: 10px; height: 400px;">
 
 <center>
-<iframe id="vsaludos" height="360px" width="640px" src="https://www.youtube.com/embed/_oR3LVLpBdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="vsaludos" height="360px" width="640px" src="https://www.youtube.com/embed/X2zHjD0CGQA"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 
 
@@ -46,10 +50,10 @@
         <!--thumbnails-->
         <div id="thumbs">
             <div class="thumb"><img src="images/saludos/DecanaFacae.jpg" onclick="video0()"  /></div>
-            <div class="thumb"><img src="images/saludos/Vicerrectora.jpg" onclick="video1()"  /></div>
-            <div class="thumb"><img src="images/saludos/LuisRenginfo.jpg" onclick="video3()"  /></div>
+      <div class="thumb"><img src="images/saludos/Vicerrectora.jpg" onclick="video1()"  /></div>
+      <div class="thumb"><img src="images/saludos/VicerrectorInvestigacion.jpg"  onclick="video5()" /></div>
+      <div class="thumb"><img src="images/saludos/LuisRenginfo.jpg" onclick="video3()"  /></div>
    <!----
-            <div class="thumb"><img src="saludos/saludo5.png"  onclick="video5()" /></div>
             <div class="thumb"><img src="saludos/saludo6.png" onclick="video6()" /></div>
             <div class="thumb"><img src="saludos/VlucherQuinteroSaludos.jpg" onclick="video7()" /></div>
   --->
@@ -114,7 +118,7 @@ function video4() {
 
 function video5() {
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src=" https://www.youtube.com/embed/zpHtut_kGQc";
+    elsaludo.src="https://www.youtube.com/embed/_qkdabnUmUA";
 }
 
 
