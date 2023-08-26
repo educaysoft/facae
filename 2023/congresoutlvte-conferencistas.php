@@ -231,7 +231,7 @@ body{
 
 .card.chile{
   .card-top{
-    background-image: url(images/banderas/Colombia.jpeg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=473657e1e7f4863f6e8a3348176a22dc);
+    background-image: url(images/banderas/Chile.jpeg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=473657e1e7f4863f6e8a3348176a22dc);
   }
   .profile-image{
     background-image: url(images/conferencistas/VivancoNicolas.jpg);
