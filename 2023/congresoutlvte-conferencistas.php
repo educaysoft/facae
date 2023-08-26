@@ -229,6 +229,16 @@ body{
 }
 
 
+.card.chile{
+  .card-top{
+    background-image: url(images/banderas/Colombia.jpeg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=473657e1e7f4863f6e8a3348176a22dc);
+  }
+  .profile-image{
+    background-image: url(images/conferencistas/VivancoNicolas.jpg);
+  }
+}
+
+
 
 
 
@@ -370,6 +380,46 @@ body{
               </div>
               <div class="sm px500">
                 <a href="https://ceadigilaw.org/staff/hoover-wadith-ruiz-renjifo/"><i class="fa fa-file" aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+<div class="display-item">
+      <div class="card chile">
+        <div class="card-top"></div>
+        <div class="card-profile">
+          <div class="profile-image">
+          </div>
+        </div>
+        <div class="card-info">
+          <div class="info-title">
+            <h3>Dr. Nicolas Vivanco Rojas, PhD.</h3>
+          </div>
+          <div class="info-cargo">
+            <h4> Gerente de Centros de Negocios del Servicio de Cooperación Técnica, SERCOTEC</h4>
+          </div>
+          <div class="info-bio">
+<b>TEMA:</b> "Servicios de Cooperación Técnica SERCOTEC y la vinculación a la Academia para el fortalecimiento de MYPIMES en Chile”  
+          </div>
+          <div class="info-social">
+            <div class="social-icons">
+              <div class="sm twitter">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+              </div>
+              <div class="sm facebook">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+              </div>
+              <div class="sm pint">
+                <a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+              </div>
+              <div class="sm px500">
+                <a href="#"><i class="fa fa-file" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>

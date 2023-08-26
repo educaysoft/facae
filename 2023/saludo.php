@@ -53,6 +53,7 @@
       <div class="thumb"><img src="images/saludos/Vicerrectora.jpg" onclick="video1()"  /></div>
       <div class="thumb"><img src="images/saludos/VicerrectorInvestigacion.jpg"  onclick="video5()" /></div>
       <div class="thumb"><img src="images/saludos/LuisRenginfo.jpg" onclick="video3()"  /></div>
+      <div class="thumb"><img src="images/saludos/EnrriqueMarmol.jpg" onclick="video4()"  /></div>
    <!----
             <div class="thumb"><img src="saludos/saludo6.png" onclick="video6()" /></div>
             <div class="thumb"><img src="saludos/VlucherQuinteroSaludos.jpg" onclick="video7()" /></div>
@@ -89,7 +90,7 @@ function image() {
 }
 
 
-function video0() {
+function video0() 	{
        var elsaludo = document.getElementById("vsaludos");
     elsaludo.src="https://www.youtube.com/embed/_oR3LVLpBdc";
 }
@@ -109,7 +110,7 @@ function video1() {
 
 function video4() {
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src="https://www.youtube.com/embed/U0sSBn6iYbc" ;
+    elsaludo.src="https://www.youtube.com/embed/dLyy77UY0qE?si=9R7B56FDYZsgfjzN";
 }
 
 
