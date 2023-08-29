@@ -83,7 +83,7 @@
  <div class="my-3 p-3 bg-body rounded shadow-sm">
 <ol id="lista5">
     <li> Responsabilidad social empresarial, economía circular, economía de colores y procesos regenerativos.<br><b>Coordinador:</b> Ing. Carlos Rivas Vallejo, Mgtr.</li>
-    <li>Calidad de la Gestión Innovadora y descriptiva de los negocios.<br><b>Coordinadora:</b> Ing. Olga Quiñonez Guagua, PhD.
+    <li>Calidad de la Gestión Innovadora y disruptiva de los negocios.<br><b>Coordinadora:</b> Ing. Olga Quiñonez Guagua, PhD.
   </li>
     <li>Tecnología y su relación con el crecimiento y el desarrollo económico.<br><b>Coordinador:</b> Ing. Carlos Holguin Cedeño, Mgtr. </li>
     <li>Economía del siglo XXI economía circular y en colores.<br><b>Coordinador:</b> Ing. Jorgeli Ayovi Caicedo, Mgtr.</li> 
