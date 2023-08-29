@@ -146,7 +146,7 @@ body {
             <img src="images/coloquio.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Logo de nuestro coloquio </strong>  <br>III Coloquio Estudiantil "Jovenes Investigadores"</p>
+              <p class="card-text"><strong>Logo, proyecto y cronograma </strong>  <br>III Coloquio Estudiantil "Jovenes Investigadores"</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='Documentos/coloquio.pdf'"   type="button" class="btn btn-sm btn-outline-secondary">PROYECTO</button>
@@ -158,7 +158,21 @@ body {
           </div>
         </div>
 
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="images/coloquio/SanchezGonzalezJose.jpg">
 
+            <div class="card-body">
+              <p class="card-text"><strong>Conferencistas invitados  </strong>  <br>III Coloquio Estudiantil "Jovenes Investigadores"</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                   <button  onclick="location.href='congresoutlvte-conferencistascoloquio.php'"   type="button" class="btn btn-sm btn-outline-secondary">VER TODOS LOS CONFERENCISTAS</button>
+ 
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
 
 
