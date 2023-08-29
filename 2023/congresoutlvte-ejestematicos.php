@@ -88,7 +88,7 @@
     <li>Tecnología y su relación con el crecimiento y el desarrollo económico.<br><b>Coordinador:</b> Ing. Carlos Holguin Cedeño, Mgtr. </li>
     <li>Economía del siglo XXI economía circular y en colores.<br><b>Coordinador:</b> Ing. Jorgeli Ayovi Caicedo, Mgtr.</li> 
     <li>Rol de los escenarios actuales de la empresa pública y privada.<br><b>Coordinador:</b> Ing. Luis Canchingre Bone, Mgtr. </li> 
-    <li>Movilidad y seguridad humana en el desarrollo económico.<br><b>Coordinador:</b> Ing. Patricio Arce Minda, Mgtr.
+    <li>Movilidad y seguridad humana en el desarrollo económico.<br><b>Coordinador:</b> Dr. Patricio Arce Minda, Mgtr.
  List item</li> 
     <li> Liderazgo, comunicación interna y Cultura Organizacional.<br><b>Coordinadora:</b> Ing. Romina Oyarvide Ibarra, Mgtr.</li> 
 </ol>
