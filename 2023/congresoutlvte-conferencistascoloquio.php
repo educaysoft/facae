@@ -17,7 +17,7 @@ include("head.php");
 
 
 <center>
-      <img src="images/coloquio/qrcoloquio.png" style="width:100%; ">
+      <img src="images/coloquio/qrcoloquio.png" style="width:20%; ">
 </center>
 <center>
 <div style="padding:20px;font-size:20px">
