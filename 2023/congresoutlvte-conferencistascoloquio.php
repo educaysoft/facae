@@ -15,6 +15,10 @@ include("head.php");
 <main id="agenda" class="cd-main-content" style="margin-top:0%">
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> III COLOQUIO ESTUDIANTIL "JOVENES INVESTIGADORES"</p>
 
+
+<center>
+      <img src="images/coloquio/qrcoloquio.png" style="width:100%; ">
+</center>
 <center>
 <div style="padding:20px;font-size:20px">
 Eje : Emprendimiento sostenible e inclusivo:  Como fomentar el espíritu emprendedor entre los estudiantes y promover modelos  de negocios que integren aspectos administrativos, sociales y ambientales.
