@@ -150,7 +150,7 @@ body {
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='Documentos/coloquio.pdf'"   type="button" class="btn btn-sm btn-outline-secondary">PROYECTO</button>
-                  <button  onclick="location.href='https://www.youtube.com/watch?v=ZZwuf-1MIrM'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                  <button  onclick="location.href='Documentos/cronogramacoloquio.pdf'" type="button" class="btn btn-sm btn-outline-secondary">Cronograma</button>
  
                 </div>
               </div>
