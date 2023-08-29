@@ -325,7 +325,7 @@ body{
             <h4>Vicerectora de Investigación Vinculación  con la Sociedad Universidad Bolivariana del Ecuador.</h4>
           </div>
           <div class="info-bio">
-           <                        > . 
+           <b>TEMA:</b>"La empresa pública y privacidad: su rol en la formación del talento humano para el desarrollo". 
           </div>
           <div class="info-social">
             <div class="social-icons">
