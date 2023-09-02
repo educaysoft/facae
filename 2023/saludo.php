@@ -1,51 +1,16 @@
-<div id="equipo" style="border-top: 2px solid green;    width: 90%; margin:20px auto; display: inline-block; ">
-
-<div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 100%; display: inline-block; ">
-
-
-<div style="float:left; width: 100%; font-size: 0.5wv;padding:0%">
-
-
-
-  <main>
-   <div class="album py-5 bg-light">
-    <div class="container">
-
- <div class="row py-lg-5 text-center container">
-      <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Saludos de bienvenida  por parte de autoridades, estudiantes e invitados especiales </h1>
-      </div>
-    </div>
-
-
-
-
-
-
 
 <div id="fsaludo" style="border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; display: flex; flex-direction:column ; ">
 
 <div  style="color:white; padding: 10px;">
-               <center> IV CONGRESO INTERNACIONAL DE CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS  - FACAE-UTLVTE 2023.</center>
+       <center>SALUDOS DE BIENVENIDA AL  IV CONGRESO INTERNACIONAL DE CIENCIAS ADMINISTRATIVAS Y ECONÓMICAS  - FACAE-UTLVTE 2023.</center>
             </div>
 
 
 <div   style="margin-left:10px; margin-top:10px;  padding: 10px; height: 400px;">
 
-<center>
-<iframe id="vsaludos" height="360px" width="640px" src="https://www.youtube.com/embed/X2zHjD0CGQA"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
-
-</center>
+<iframe id="vsaludos" height="360px" width="640px" src="https://www.youtube.com/embed/X2zHjD0CGQA"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border: 0; width: 100%; height: 100%"></iframe>
 
 </div>
-
-
     <div>      
         <!--thumbnails-->
         <div id="thumbs">
@@ -60,24 +25,7 @@
   --->
         </div>
      </div>
-
-
-
  </div>
-
-
-
-
-
-
-
-     </div>
-  </div>
-		
-  </main>
-</div>
-</div>
-</div>
 
 
 
