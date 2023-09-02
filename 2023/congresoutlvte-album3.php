@@ -151,6 +151,7 @@ body {
                 <div class="btn-group">
                    <button  onclick="location.href='Documentos/coloquio.pdf'"   type="button" class="btn btn-sm btn-outline-secondary">PROYECTO</button>
                   <button  onclick="location.href='Documentos/cronogramacoloquio.pdf'" type="button" class="btn btn-sm btn-outline-secondary">Cronograma</button>
+                  <button  onclick="location.href=' https://youtu.be/7GualUNODFc'" type="button" class="btn btn-sm btn-outline-secondary">Evento</button>
  
                 </div>
               </div>

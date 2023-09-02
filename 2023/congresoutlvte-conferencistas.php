@@ -238,6 +238,15 @@ body{
   }
 }
 
+.card.ecuador3{
+  .card-top{
+    background-image: url(images/banderas/Ecuador.jpeg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=473657e1e7f4863f6e8a3348176a22dc);
+  }
+  .profile-image{
+    background-image: url(images/conferencistas/CampuzanoVasquezJohn.jpg);
+  }
+}
+
 
 
 
@@ -426,6 +435,47 @@ body{
         </div>
       </div>
     </div>
+
+
+
+
+<div class="display-item">
+      <div class="card ecuador3">
+        <div class="card-top"></div>
+        <div class="card-profile">
+          <div class="profile-image">
+          </div>
+        </div>
+        <div class="card-info">
+          <div class="info-title">
+            <h3>Dr. John Alexander Campuzano Vasquez Vasquez, Mgtr.</h3>
+          </div>
+          <div class="info-cargo">
+            <h4> Coordinador del Grupo de Investigación en Desarrollo Económico de la Universidad Técnica de Machala</h4>
+          </div>
+          <div class="info-bio">
+<b>TEMA:</b> "Factores determinantes para la competitividad provincial, un analisis mediante componentes principales categóricos”  
+          </div>
+          <div class="info-social">
+            <div class="social-icons">
+              <div class="sm twitter">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+              </div>
+              <div class="sm facebook">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+              </div>
+              <div class="sm pint">
+                <a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+              </div>
+              <div class="sm px500">
+                <a href="#"><i class="fa fa-file" aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
 
 
 
