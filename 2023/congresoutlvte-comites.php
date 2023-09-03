@@ -62,8 +62,8 @@ Rector de la UTLVTE</p>
   <span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgtr.</span><br> 
   <span class="nombre">Ing. Elaine Yanin Tenorio Canchingre, Mgtr.</span><br> 
   <span class="nombre">Ing. Ana Lucia Quintana Lovato, Mgtr.</span><br> 
-  <span class="nombre">Ing. Jazmina Andrea Reina Zambrano, Mgtr.</span></p> 
-
+  <span class="nombre">Ing. Jazmina Andrea Reina Zambrano, Mgtr.</span></br> 
+  <span class="nombre">Ing. Mercedes Magdalena Bustos Gámez, Mgtr.</span></p> 
 
 </main>
 </div>
@@ -86,27 +86,12 @@ Rector de la UTLVTE</p>
 
    <p  class="badge bg-primary text-wrap" >Miembros</p>
  <p class="nombre">  Dra. Yorbet Montes de Oca Rojas, PhD.<br><span class="text-primary">(Universidad de Zulia, Venezuela)</span></p>
-  <p class="nombre">  Dr. Rosario León Robaina, PhD.<br><span class="text-primary">(Universidad del Oriente, Santiago de Cuba)</span></p>
-   <p class="nombre"> Dr. Graciela María Castellanos Pallerois, PhD.<br><span class="text-primary">(Universida del Oriente, Santiago de Cuba)</span></p>
-  <p class="nombre">Dr. Yahilina Silveira Perez, PhD.<br><span class="text-primary">(Universidad de Sucre, Colombia)</span></p>
-  <p class="nombre">Dr. Rubén Guillermo Pelliecer Durán, PhD.<br><span class="text-primary">(Universidad de Oriente, Santiago de Cuba)</span></p>
-
-  <p class="nombre">Dr. María Helena López Hernández, PhD.<br><span class="text-primary">(Universidad de Guadalajara, México)</span></p>
-
-
-  <p class="nombre">Dr. Frank Ángel Lemoine Quintero, PhD.<br><span class="text-primary">(Universidad Laica Eloy Alfaro de Manabí, Extensión Bahía, Nacionalidad Cubana)</span></p>
-
-
-  <p class="nombre">Ing. Alfonso Murgueitio Montenegro, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
-
-  <p class="nombre">Ing. Elizabeth Jackeline Govea Robinsón, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 
   <p class="nombre">Ing. Olga jackeline Quiñonez Guagua, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 
 
   <p class="nombre">Ing. Harold Paúl Oyarvide Ramiréz, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 
-  <p class="nombre">Abg. Félix Segundo Rosales Cortes, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 
 
   </main>
@@ -140,7 +125,6 @@ Rector de la UTLVTE</p>
   <p><span class="nombre">Lic. Carlos Andrés Holguin Cedeño, Mgtr.</span><br>
 (UTLVTE)</p>
 
-  <p><span class="nombre">Ing. María Fernanda Caicedo Nazareno, Mgtr.</span><br>
 (UTLVTE)</p>
 </main>
 </div>
@@ -152,17 +136,13 @@ Rector de la UTLVTE</p>
   </header>
   <main>
 
-   <p  class="badge bg-primary text-wrap" > Tema: Talento
-Humano</p>
+   <p  class="badge bg-primary text-wrap" > Tema: Talento Humano</p>
 
   <p><span class="nombre">Ing. Jazmina Andrea Reina Zambrano, Mgtr.</span><br> 
-  <span class="nombre">Ing. Norma Shirley Ayovi Realpe, Mgtr.</span><br> 
-  <span class="nombre">Ing. Mercedes Magdalena Bustos Gámez, Mgtr.</span><br> 
   <span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span><br> 
   <span class="nombre">Ing. Ana Lucia Quintana Lovato, Mgtr.</span><br> 
   <span class="nombre">Ing. Yimabel del Rocío Cortes Arce, Mgtr.</span><br> 
   <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgtr.</span><br> 
-  <span class="nombre">Ing. Jefferson Humberto Figueroa Moreno, Mgtr.</span></p>
 
 
    <p  class="badge bg-primary text-wrap" > Tema: Geopolítico
@@ -171,9 +151,6 @@ Mundial</p>
   <span class="nombre"> Ing. Walter Edgar Saavedra Segura. Mgtr.</span><br>
   <span class="nombre"> Ing. Gorqui Augusto Estupiñan Vivas.</span><br>
   <span class="nombre"> Ing. Gustavo Roberto Castillo Ruano, Mgtr.</span><br>
-  <span class="nombre"> Ing. José Jorge Cortez Altafuya, Mgtr.</span><br>
-  <span class="nombre"> Ing. Pacha Marquez, Mgtr.</span><br>
-  <span class="nombre"> Ing. Ingrid Tania Nazareno Veliz, Mgtr.</span><br>
   <span class="nombre"> Eco. Jorge Antonio Merchán Rumbea.</span></p>
   </main>
 </div>
@@ -189,9 +166,12 @@ Mundial</p>
   <main>
 
   <p><span class="nombre">Dr. Alfredo Plaza Castillo,PhD.</span><br>
+  <p> <span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgtr.</span><br> 
   <span class="nombre">Ing. Jesús Alfredo Gómez Ladines, Mgtr.</span><br>
-  <span class="nombre">Ing. Walter Becerra Quiñonez, Mgtr.</span><br>
-  <span class="nombre">Ing. Elaine Yanin Tenorio Canchingre, Mgtr.</span></p>
+  <span class="nombre">Ing. Elaine Yanin Tenorio Canchingre, Mgtr.</span><br>
+  <span class="nombre">Ing. Ronny Angulo Guerrero.</span><br>
+  <span class="nombre">Ing. Amy Triviño Diaz.</span><br>
+  <span class="nombre">Abg. Nahomy Olaya Chere.</span></p> 
 
 <p> <span class="nombre">Estudiante Cesar Augusto Rivadeneira Mendoza.</span><br>
 (CARRERA DE ADMINISTRACIÓN)</p>
@@ -210,7 +190,7 @@ Mundial</p>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>CORDINADORES EJES TEMÁTICOS</b></p>
   </header>
   <main>
-<p> <span class="nombre">Ing. Carlos Enrique Rivas Vallejo, Mgtr.</span><br> 
+<p> <span class="nombre">Dra. Marisol Alava Cedeño, Mgtr.</span><br> 
 <i style="color: blue">(Responsabilidad social y empresarial.)</i></p>
 
 
@@ -249,6 +229,7 @@ Mundial</p>
   <p><span class="nombre">Dr. Pablo Aníbal Minda Batallas, PhD.</span><br>
  Director de Investigación UTLVTE </p> 
 
+  <p><span class="nombre">Ing. Mariuxi Guijarro Cagua, PhD.</span></p> 
 
   </main>
 </div>
@@ -266,9 +247,7 @@ Mundial</p>
 <p><span class="nombre">Dr. Julio Alfonso Murgueitto Montenegro. PhD.</span></br> 
 <span class="nombre">Dr. Pablo Domingo Vilela Mera, PhD.</span></br> 
 <span class="nombre">Dra. Marisol del Rocio Alava Cedeñó, Mgtr.</span></br> 
-<span class="nombre">Dr. Gustavo Darío Robles Quiñónez</span></br> 
-<span class="nombre">Ing. Fanny Graciela Egas Moreno, Mgtr</span></br> 
-<span class="nombre">Ing. Alex Paul Alencastro Guerrero, Mgtr.</span></p> 
+<span class="nombre">Dr. Gustavo Darío Robles Quiñónez</span></p> 
 
 
 </main>
@@ -278,14 +257,18 @@ Mundial</p>
     <p style="margin-bottom: 10px; margin-top:10px;" ><b>MODERADORES</b></p>
   </header>
   <main>
+   <p  class="badge bg-primary text-wrap" > 1er día</p>
 
-  <span class="nombre">Ing. Luis Aldimir Canchingre Bone, Mgtr.</span><br> 
-  <span class="nombre">Ing. Romina Tamagra Oyarvide Ibarra, Mgtr.</span><br> 
-  <span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span><br> 
-  <span class="nombre">Ing. Iván Octavio Endara Arguello, Mgtr.</span><br> 
-  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgtr.</span><br> 
-  <span class="nombre">Ing. Alex Paul Alencastro Guerrero, Mgtr.</span><br> 
+  <p><span class="nombre">Lic. Carlos Holguín Cedeño, Mgtr.</span><br> 
+  <span class="nombre">Ing. Mayra Alejandra Escandón Franco, Mgtr.</span></p> 
+
+   <p  class="badge bg-primary text-wrap" > 2do día</p>
+  <p><span class="nombre">Ing. Iván Octavio Endara Arguello, Mgtr.</span><br> 
+  <span class="nombre">Abg. Nahomy Olaya Chere.</span></p> 
    
+   <p  class="badge bg-primary text-wrap" > 3do día</p>
+  <p><span class="nombre">Ing. Walter Edgar Saavedra Segura, Mgtr.</span><br>
+  <span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span></p> 
 
   </main>
 </div>
@@ -296,10 +279,7 @@ Mundial</p>
   <main>
 <p><span class="nombre">Ing. Elaine Yanin Tenorio Canchingres, MsC.</span></br> 
 <span class="nombre">Ing. Ana Lucía Quintana Lovato, Mgtr.</span></br> 
-<span class="nombre">Ing. Romina Tanagra Oyarvide Ibarra, Mgtr.</span></br> 
-<span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span></br> 
-<span class="nombre">Ing. Johanna Alejandra Custode Quiñonez, Mgtr</span></br> 
-<span class="nombre">Ing. Yimabel del Rocio Cortes Arce, Mgtr.</span></p> 
+<span class="nombre">Ing. María Fernanda Mosquera Torres, Mgtr.</span></p> 
 
 
 </main>
@@ -316,6 +296,7 @@ Mundial</p>
 
   <span class="nombre">Ing. Stalin Francis Quinde, MsC.</span><br> 
   <span class="nombre">Lic. Carlos Holguín Cedeño, Mgtr.</span><br> 
+  <span class="nombre">Lic. Daniel Requene Chichande.</span><br> 
    
 
   </main>
