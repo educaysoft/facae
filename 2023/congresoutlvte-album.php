@@ -72,7 +72,7 @@
             <img src="images/GuijarroCaguaMariuxi.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Mariuxi Guijarro Cagua</strong> <br> Decana FACAE.</p>
+              <p class="card-text"><strong>Mariuxi Guijarro</strong> <br> Decana FACAE.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button disabled onclick="location.href='https://drive.google.com/file/d/1uPoHjQxpr9rgwENy6ovfMY9RQJvNokSI/view'"  type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
