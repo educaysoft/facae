@@ -26,7 +26,7 @@ include_once("head.php");
   </div>
   <div style=" width: 60%; display: flex;flex-direction:column;  justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">1.- Responsabilidad social empresarial, economía circular, economía de colores y procesos regenerativos.
+      <p style="font-size: 20px; margin:10px 0 10px 0;">1.- Responsabilidad social empresarial.
 </p>
 
       <p style="color:gray;">Coordinador: Ing. Carlos Rivas Vallejo, Mgs.  </p> 
