@@ -1,5 +1,15 @@
-<div id="equipo" style="border-top: 2px solid green;    width: 90%; margin:20px auto; display: inline-block; ">
-<div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 100%; display: inline-block; ">
+
+<div id="fsaludo" style="border-top: 2px solid green; background-color:white;   width: 100%; margin:0px auto; display: flex; flex-direction:column ; ">
+
+
+
+
+<div   style="margin-left:10px; margin-top:10px;  padding: 10px; height: 100%;">
+
+
+
+
+
 
 <div style="float:left; width: 100%; font-size: 0.5wv;padding:0%">
 
@@ -74,9 +84,7 @@
       		</div>
     	</div>
 
-
   <div class="container px-4 py-5" id="icon-grid">
-
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 py-5">
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
