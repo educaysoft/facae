@@ -29,10 +29,10 @@ include_once("head.php");
       <p style="font-size: 20px; margin:10px 0 10px 0;">1.- Responsabilidad social empresarial.
 </p>
 
-      <p style="color:gray;">Coordinador: Ing. Carlos Rivas Vallejo, Mgs.  </p> 
+      <p style="color:gray;">Coordinadora: Dra. Marisol Alava Cedeño, Mgs.  </p> 
 
     </div>  
-<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/RivasVallejoCarlos.png' width='100%' height='100%' style='border-radius:50px;'></div>
+<div class='img-contenedor w3-card-4' style='border: 2px solid green; border-radius: 50%; width: 30%; display:flex; justify-content: center; align-items: center;'><img src='images/AlavaCedenoMarisol.png' width='100%' height='100%' style='border-radius:50px;'></div>
 </div>
 </div>
 

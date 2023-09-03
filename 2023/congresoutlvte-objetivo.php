@@ -15,7 +15,7 @@ Formar a los estudiantes en áreas de gestión empresarial como finanzas, contab
 Profesores, investigadores, consultores y estudiantes de grado o posgrado que hayan realizado o estén desarrollando trabajos académicos con casos nacionales o con una perspectiva comparada, ya sea con una mirada inter/transdisciplinar o bien disciplinar desde la sociología, ciencias políticas, economía, antropología, historia, ciencias agropecuarias, etc.</p>
 <p style="text-align:justify;  font: 1.5vw 'trebuchet MS', 'lucida sans';  margin:10px 0 10px 0;">Miembros de organizaciones sociales, movimientos indígenas/afrodescendientes, organizaciones no gubernamentales, promotores, funcionarios públicos, etc.</p>
 
-<p style="color: black; font: 1.5vw 'trebuchet MS', 'lucida sans';  font-weight: bold;"><a href="https://www.utelvt.edu.ec/site/facultades/ciencias-administrativas-y-economicas/">¿Conoco más de nuestra facultad...</a></p>
+<p style="color: black; font: 1.5vw 'trebuchet MS', 'lucida sans';  font-weight: bold;"><a href="https://www.utelvt.edu.ec/site/facultades/ciencias-administrativas-y-economicas/">¿Conoce más de nuestra facultad...</a></p>
 
 
 </div>
