@@ -23,7 +23,7 @@
             <img src="images/RivasVallejoCarlos.png">
 
             <div class="card-body">
-              <p class="card-text"><strong>Rivas Vallejo Carlos</strong>  <br>1.-Responsabilidad social empresarial, economía circular, economía de colores y procesos regenerativos&nbsp</p>
+              <p class="card-text"><strong>Rivas Vallejo Carlos</strong>  <br>1.-Responsabilidad social empresarial.&nbsp</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'"  disabled   type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
