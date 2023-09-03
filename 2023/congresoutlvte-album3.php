@@ -118,7 +118,7 @@ body {
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light">Actividad Pre-Congreso</h1>
         <p class="lead text-muted">III Coloquio Estudiantil "Jóvenes Investigadores".</p>
-        <p class="lead text-muted">29 - Agosto -2023".</p>
+        <p class="lead text-muted">1 - Septiembre -2023".</p>
       </div>
     </div>
 
@@ -140,25 +140,6 @@ body {
           </div>
         </div>
 
-
-<div class="col">
-          <div class="card shadow-sm">
-            <img src="images/coloquio.jpg">
-
-            <div class="card-body">
-              <p class="card-text"><strong>Logo, proyecto y cronograma </strong>  <br>III Coloquio Estudiantil "Jovenes Investigadores"</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                   <button  onclick="location.href='Documentos/coloquio.pdf'"   type="button" class="btn btn-sm btn-outline-secondary">PROYECTO</button>
-                  <button  onclick="location.href='Documentos/cronogramacoloquio.pdf'" type="button" class="btn btn-sm btn-outline-secondary">Cronograma</button>
-                  <button  onclick="location.href=' https://youtu.be/7GualUNODFc'" type="button" class="btn btn-sm btn-outline-secondary">Evento</button>
- 
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
 <div class="col">
           <div class="card shadow-sm">
             <img src="images/coloquio/SanchezGonzalezJose.jpg">
@@ -174,6 +155,27 @@ body {
             </div>
           </div>
         </div>
+
+
+
+<div class="col">
+          <div class="card shadow-sm">
+            <a href="https://www.youtube.com/watch?v=7GualUNODFc"><img src="images/coloquioevento.png"  style="width:100%" ></a>
+
+            <div class="card-body">
+              <p class="card-text"><strong>Desarrollo del evento</strong>  <br>III Coloquio Estudiantil "Jovenes Investigadores"</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                   <button  onclick="location.href='Documentos/coloquio.pdf'"   type="button" class="btn btn-sm btn-outline-secondary">PROYECTO</button>
+                  <button  onclick="location.href='Documentos/cronogramacoloquio.pdf'" type="button" class="btn btn-sm btn-outline-secondary">Cronograma</button>
+ 
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
 
 
 
