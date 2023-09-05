@@ -6,14 +6,7 @@
 
 
 
-
-
-
-
-
-
-
-<a href="https://www.utelvt.edu.ec/site/facultades/ciencias-administrativas-y-economicas/"><img src="images/zoom.png" style="width:100%"></a></p>
+<a href="https://cedia.zoom.us/j/86104666190"><img src="images/zoom.png" style="width:100%"></a></p>
 
 
 </div>
