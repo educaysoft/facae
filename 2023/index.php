@@ -245,6 +245,12 @@ include_once("head.php");
 
 <div style="display:flex;flex-direction: column; background-color: white;">
 
+
+<?php
+include_once("zoom.php");
+?>
+
+
 <?php
 include_once("evento.php");
 ?>
