@@ -86,6 +86,8 @@ Rector de la UTLVTE</p>
 
    <p  class="badge bg-primary text-wrap" >Miembros</p>
  <p class="nombre">  Dra. Yorbet Montes de Oca Rojas, PhD.<br><span class="text-primary">(Universidad de Zulia, Venezuela)</span></p>
+ <p class="nombre">  Dra. Nayade Caridad Reyes Palau, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas, Ecuador)</span></p>
+
 
   <p class="nombre">Ing. Olga jackeline Quiñonez Guagua, PhD.<br><span class="text-primary">(Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador)</span></p>
 

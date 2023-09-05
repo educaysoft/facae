@@ -246,12 +246,22 @@ include_once("head.php");
 <div style="display:flex;flex-direction: column; background-color: white;">
 
 <?php
+include_once("evento.php");
+?>
+
+
+
+
+<?php
 include_once("congresoutlvte-objetivo.php");
 ?>
 
 <?php
 //include_once("congresoutlvte-slide.php");
 ?>
+
+
+
 
 
 <?php
