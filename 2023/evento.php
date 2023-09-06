@@ -19,6 +19,8 @@
         <div id="thumbs">
             <div class="thumb"><img src="images/evento/PrimerDia.jpg" onclick="video20()"  /></div>
       <div class="thumb"><img src="images/evento/PrimerDiaTarde.jpg" onclick="video21()"  /></div>
+      <div class="thumb"><img src="images/evento/SegundoDiaManana.jpg" onclick="video22()"  /></div>
+      <div class="thumb"><img src="images/evento/SegundoDiaTarde.jpg" onclick="video23()"  /></div>
    <!----
             <div class="thumb"><img src="saludos/saludo6.png" onclick="video6()" /></div>
             <div class="thumb"><img src="saludos/VlucherQuinteroSaludos.jpg" onclick="video7()" /></div>
@@ -47,7 +49,18 @@ function video21() {
     elsaludo.src="https://www.youtube.com/embed/eCodXZohhQ0?si=GpYqVTEhCKkEDScI";
 }
 
+function video22() {
+       var elsaludo = document.getElementById("vsaludos");
+    elsaludo.src="https://www.youtube.com/embed/QLorixbXppg?si=dIReqwKmOVDmQ-Xk"; 
+}
 
+
+
+
+function video23() {
+       var elsaludo = document.getElementById("vsaludos");
+    elsaludo.src="https://www.youtube.com/embed/xa955XbWqm8?si=sQPPpgKHsdCgmuW6";
+}
 
 
 
