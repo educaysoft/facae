@@ -247,13 +247,17 @@ include_once("head.php");
 
 
 <?php
-include_once("zoom.php");
+//include_once("zoom.php");
 ?>
 
 
 <?php
 include_once("evento.php");
 ?>
+<?php
+include_once("congresoutlvte-foros.php");
+?>
+
 
 
 
