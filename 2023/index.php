@@ -290,7 +290,7 @@ include_once("congresoutlvte-ejestematicos.php");
 
 
 <?php
-include_once("cuenta-regresiva.php");
+//include_once("cuenta-regresiva.php");
 ?>
 
 <?php
