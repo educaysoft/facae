@@ -224,15 +224,242 @@ Ponencia magistral.
 
 
 <div style="padding:20px;">
-Ponencia magistral.
+Evento final.
 </div>
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/flyer15.jpg" style="width:100%; ">
+      <img src="images/Memoria/final1.jpg" style="width:100%; ">
   </div>
 	</div>  
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final2.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final3.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final4.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final5.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final6.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final7.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final8.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final9.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final10.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final11.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final12.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final13.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final14.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final15.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final16.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+
+<div style="padding:20px;">
+Evento final.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/final17.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
