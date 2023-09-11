@@ -134,10 +134,10 @@ body {
 	      <p class="card-text"><strong>Tema central: </strong> Los BRICS y su asentamiento global frente al grupo G7 y sus repercusiones sobre la administración económica, social y política en el Ecuador y en América Latina.</p>
               <div>
 		   <p><i class='fas fa-user-clock' style='font-size:16px;color:red'>:</i><b>Moderador:</b> </p>
-		   <p>	 Felix Rosales Cortez. </p>
+		   <p>	 Félix Rosales Cortez. </p>
 			<p> <i class='fas fa-user-tie' style='font-size:16px;color:red'>:</i><b>Participantes y Expositores</b></p>
 		        Vladimir Jijon Solorzano. <br>
-		        Felix Preciado Quiñonez.<br>
+		        Félix Preciado Quiñonez.<br>
 		        Enrrique Marmol Palacios.</p>  
  
               </div>
